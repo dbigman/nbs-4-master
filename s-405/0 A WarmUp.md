@@ -1,8 +1,7 @@
-<!-- # Warm Up  -->
+# Warm Up
 
 ## Probabilities
 
-Today you will be talking to the students about probabilities (Naive Bayes).
-Start the day by understanding the Goat Contests problem
+Welcome to today's lesson on probabilities, specifically focusing on the Bayes Theorem. Let's start by exploring the Goat Contest problem.
 
-https://www.youtube.com/watch?v=CYyUuIXzGgI&ab_channel=NOWPLAYING
+[Watch this video to get started](https://www.youtube.com/watch?v=CYyUuIXzGgI&ab_channel=NOWPLAYING)
