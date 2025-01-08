@@ -1,0 +1,9 @@
+# Ensure Jupyter Notebook files always use LF
+*.ipynb text eol=lf
+
+# General text files
+* text=auto
+
+# Ignore binary files
+*.pdf binary
+*.pptx binary
