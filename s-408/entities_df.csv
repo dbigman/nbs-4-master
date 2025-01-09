@@ -1,0 +1,7454 @@
+Entity,Label
+Dursley,PERSON
+four,CARDINAL
+Privet Drive,PERSON
+Dursley,PERSON
+Grunnings,ORG
+Dursley,PERSON
+Dudley,PERSON
+Dursleys,PERSON
+Potters,PERSON
+Potter,PERSON
+Dursley,PERSON
+2,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+several years,DATE
+Dursley,PERSON
+Dursleys,PERSON
+Potters,ORG
+Dursleys,PERSON
+Potters,PERSON
+Dudley,PERSON
+Dursley,PERSON
+Tuesday,DATE
+Dursley,PERSON
+Dursley,PERSON
+Dudley,PERSON
+half past eight,DATE
+Dursley,PERSON
+Dursley,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Dursley,PERSON
+number four,CARDINAL
+first,ORDINAL
+second,ORDINAL
+Dursley,PERSON
+Privet Drive,PERSON
+Dursley,PERSON
+Page,PERSON
+3,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dursley,PERSON
+"Privet 
+Drive",PERSON
+Dursley,PERSON
+that day,DATE
+Dursley,PERSON
+Dursley,PERSON
+Dursley,PERSON
+a few minutes later,TIME
+Dursley,PERSON
+Grunnings,ORG
+Dursley,PERSON
+ninth,ORDINAL
+nighttime,TIME
+Dursley,PERSON
+five,CARDINAL
+Page,ORG
+4,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+The Potters,WORK_OF_ART
+Harry,PERSON
+Dursley,PERSON
+Potter,PERSON
+Harry,PERSON
+Harry,PERSON
+Harvey,GPE
+Harold,PERSON
+Dursley,PERSON
+5,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+afternoon,TIME
+five o’clock,TIME
+a few seconds,TIME
+today,DATE
+Dursley,PERSON
+Dursley,PERSON
+Muggle,PRODUCT
+four,CARDINAL
+that morning,TIME
+Dursley,PERSON
+Dursley,PERSON
+6,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dursley,PERSON
+normal day,DATE
+Dudley,PERSON
+Dursley,PERSON
+Dudley,PERSON
+evening,TIME
+today,DATE
+hundreds,CARDINAL
+"Jim 
+McGuffin",PERSON
+tonight,TIME
+Jim,PERSON
+Ted,PERSON
+today,DATE
+Kent,PERSON
+Yorkshire,PERSON
+Dundee,ORG
+yesterday,DATE
+Bonfire Night,ORG
+next week,DATE
+a wet night,TIME
+tonight,TIME
+Dursley,PERSON
+Britain,GPE
+Potters,PERSON
+7,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dursley,PERSON
+two,CARDINAL
+Petunia,GPE
+Dursley,PERSON
+Dursley,PERSON
+today,DATE
+Dursley,PERSON
+Dursley,PERSON
+Dudley,PERSON
+Dursley,PERSON
+Howard,PERSON
+Nasty,PERSON
+Dursley,PERSON
+Dursley,PERSON
+Dursley,PERSON
+8,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Privet Drive,FAC
+Potters,PERSON
+Dursleys,PERSON
+Dursley,PERSON
+Dursley,PERSON
+Potters,PERSON
+Dursley,PERSON
+Petunia,GPE
+Petunia,GPE
+Dursley,PERSON
+"Privet 
+Drive",PRODUCT
+two,CARDINAL
+midnight,TIME
+"Privet 
+Drive",WORK_OF_ART
+9,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+half,CARDINAL
+Albus Dumbledore,WORK_OF_ART
+Albus Dumbledore,ORG
+Twelve,CARDINAL
+two,CARDINAL
+Dursley,PERSON
+Dumbledore,PERSON
+four,CARDINAL
+McGonagall,PERSON
+10,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+"all 
+day",DATE
+McGonagall,PERSON
+All day,DATE
+a dozen,CARDINAL
+McGonagall,PERSON
+Dursleys,PERSON
+Kent,PERSON
+Dedalus Diggle,PERSON
+Dumbledore,ORG
+"eleven 
+years",DATE
+McGonagall,PERSON
+11,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Muggle,LOC
+Dumbledore,PERSON
+the very day,DATE
+Muggles,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+Muggle,PRODUCT
+McGonagall,PERSON
+eleven years,DATE
+Voldemort,PRODUCT
+McGonagall,PERSON
+Dumbledore,PERSON
+two,CARDINAL
+Voldemort,PRODUCT
+McGonagall,PERSON
+half,CARDINAL
+half,CARDINAL
+Voldemort,PRODUCT
+12,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+Voldemort,PRODUCT
+Madam Pomfrey,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+"all 
+day",DATE
+Dumbledore,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+"last 
+night",TIME
+Voldemort,PERSON
+Godric’s Hollow,FAC
+Potters,PERSON
+Lily,PERSON
+James Potter,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Lily and James ...,WORK_OF_ART
+Albus,GPE
+Dumbledore,PERSON
+13,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+McGonagall,PERSON
+Harry,PERSON
+Harry Potter,PERSON
+Voldemort,PRODUCT
+Dumbledore,PRODUCT
+McGonagall,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+twelve,CARDINAL
+Dumbledore,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Harry,PERSON
+McGonagall,PERSON
+14,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+four,CARDINAL
+Dumbledore,PERSON
+all day,DATE
+two,CARDINAL
+Harry Potter,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+today,DATE
+Harry Potter Day,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+half,CARDINAL
+McGonagall,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+15,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Dumbledore,PERSON
+McGonagall,PERSON
+at least five,CARDINAL
+Hagrid,GPE
+Dumbledore,PERSON
+Dumbledore,PERSON
+Young Sirius Black,WORK_OF_ART
+Muggles,PERSON
+Bristol,ORG
+16,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Dumbledore,PERSON
+McGonagall,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+the London Underground,ORG
+Hagrid,GPE
+Dumbledore,PERSON
+Harry,PERSON
+Dursleys,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Hagrid,GPE
+James,PERSON
+Harry,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Hagrid,GPE
+Dumbledore,PERSON
+Harry,PERSON
+17,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry’s,PERSON
+two,CARDINAL
+a full minute,TIME
+three,CARDINAL
+Hagrid,GPE
+McGonagall,PERSON
+Dumbledore,ORG
+Dumbledore,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Dumbledore,PERSON
+Hagrid,GPE
+the night,TIME
+McGonagall,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+twelve,CARDINAL
+Privet Drive,PERSON
+four,CARDINAL
+Harry,PERSON
+Privet Drive,PERSON
+18,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry Potter,PERSON
+One,CARDINAL
+a few hours,TIME
+Dursley,ORG
+"the next 
+few weeks",DATE
+Dudley,PERSON
+Harry Potter,PERSON
+19,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Nearly ten years,DATE
+Dursleys,PERSON
+Privet Drive,PERSON
+four,CARDINAL
+the night,TIME
+Dursley,PERSON
+Ten years ago,DATE
+"Dudley 
+Dursley",PERSON
+first,ORDINAL
+Harry Potter,PERSON
+20,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+first,ORDINAL
+"the 
+day",DATE
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+one,CARDINAL
+Harry,PERSON
+21,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dudley,PERSON
+Dudley,PERSON
+second,ORDINAL
+Dudley,PERSON
+Harry,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Dudley’s,PERSON
+Dudley,PERSON
+about four,CARDINAL
+Harry,PERSON
+Scotch,NORP
+Dudley,PERSON
+Harry,PERSON
+first,ORDINAL
+Aunt Petunia,WORK_OF_ART
+first,ORDINAL
+Dursleys,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+morning,TIME
+22,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+a week,DATE
+Uncle Vernon,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Dudley,PERSON
+Thirty-six,CARDINAL
+two less than last year,DATE
+Mommy,PERSON
+thirty-seven,CARDINAL
+Dudley,PERSON
+Harry,PERSON
+Dudley,PERSON
+Dudley,PERSON
+two,CARDINAL
+today,DATE
+Two,CARDINAL
+23,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Dudley",ORG
+thirty,CARDINAL
+thirty,CARDINAL
+Thirty-nine,CARDINAL
+Aunt Petunia,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Aunt Petunia,PRODUCT
+Harry,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+sixteen,CARDINAL
+Aunt Petunia,PERSON
+Vernon,ORG
+Figg,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry’s,PERSON
+Every year,DATE
+Dudley,ORG
+the day,DATE
+Every year,DATE
+Harry,PERSON
+Figg,PERSON
+two,CARDINAL
+Harry,PERSON
+Figg,PERSON
+Aunt Petunia,PERSON
+Harry,PERSON
+Harry,PERSON
+24,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Figg,PERSON
+a whole year,DATE
+Tibbies,ORG
+Snowy,GPE
+Paws,PERSON
+Tufty,NORP
+Uncle Vernon,PERSON
+Vernon,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Yvonne,GPE
+Majorca,ORG
+Aunt Petunia,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Aunt,PERSON
+25,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Dudley",ORG
+years,DATE
+Dinky Duddydums,PERSON
+Mummy,PERSON
+special day,DATE
+Dudley,PERSON
+Harry,PERSON
+Aunt Petunia,PERSON
+Dudley,PERSON
+Piers Polkiss,ORG
+Dudley,PERSON
+Dudley,PERSON
+Half an hour later,TIME
+Harry,PERSON
+Dursleys,PERSON
+Dudley,PERSON
+first,ORDINAL
+Uncle Vernon,PERSON
+Harry,PERSON
+Harry’s,PERSON
+Christmas,DATE
+Harry,PERSON
+26,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Uncle Vernon,PERSON
+Harry,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+the next day,DATE
+Next morning,TIME
+"Aunt 
+Petunia",PRODUCT
+Aunt Petunia,PRODUCT
+Dudley’s,PERSON
+Harry,PERSON
+Harry,PERSON
+Dudley’s,PERSON
+Harry’s,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Page,PERSON
+27,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+today,DATE
+Dudley,PERSON
+"the 
+day",DATE
+Figg,PERSON
+Uncle Vernon,PERSON
+Aunt,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+This morning,TIME
+Harry,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+Piers,ORG
+Harry,PERSON
+one,CARDINAL
+Dursleys,PERSON
+Saturday,DATE
+Dursleys,PERSON
+Dudley,PERSON
+28,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Dursleys,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+first,ORDINAL
+Harry,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Uncle,PERSON
+Vernon,ORG
+Dudley,PERSON
+Uncle Vernon,PERSON
+29,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dudley,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+Harry,PERSON
+all day,DATE
+Aunt Petunia,PRODUCT
+Harry’s,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+30,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K.,ORG
+Harry,PERSON
+Constrictor,GPE
+Brazil,GPE
+jabbed,PERSON
+Harry,PERSON
+Brazil,GPE
+Harry,PERSON
+MR,GPE
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+one second,TIME
+Piers,ORG
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+Brazil,GPE
+31,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Aunt Petunia,PRODUCT
+Dudley,PERSON
+Harry,PERSON
+Uncle,GPE
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Aunt Petunia,PRODUCT
+Harry,PERSON
+Dursleys,PERSON
+Dursleys,PERSON
+"ten 
+miserable years",DATE
+32,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Dursleys,PERSON
+Aunt Petunia,ORG
+Dudley,PERSON
+Harry,PERSON
+Aunt,PERSON
+the other day,DATE
+second,ORDINAL
+Harry,PERSON
+Harry,PERSON
+Dudley’s,PERSON
+Harry Potter,PERSON
+baggy old,ORG
+Dudley’s,PERSON
+33,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+3,CARDINAL
+Brazilian,NORP
+Harry,PERSON
+"the summer 
+holidays",DATE
+Dudley,PERSON
+first,ORDINAL
+Figg,PERSON
+Harry,PERSON
+Dudley’s,PERSON
+Dennis,PERSON
+Malcolm,PERSON
+Gordon,PERSON
+Dudley,PERSON
+Dudley,GPE
+Harry Hunting,PERSON
+Harry,PERSON
+the end of the holidays,DATE
+September,DATE
+first,ORDINAL
+34,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dudley,PERSON
+Dudley,PERSON
+Smeltings,PERSON
+Harry,PERSON
+Stonewall High,PERSON
+the first day,DATE
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+One day,DATE
+July,DATE
+Aunt Petunia,LOC
+Dudley,GPE
+London,GPE
+Smeltings,ORG
+Harry,PERSON
+Figg’s,PERSON
+Figg,PERSON
+Harry,PERSON
+several years,DATE
+Dudley,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Ickle Dudleykins,GPE
+Harry,PERSON
+35,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+two,CARDINAL
+"k k k 
+
+
+
+",PERSON
+"the next 
+morning",TIME
+Harry,PERSON
+Aunt Petunia,PERSON
+Harry,PERSON
+Aunt Petunia,PERSON
+Dudley,PERSON
+Harry,PERSON
+first,ORDINAL
+Dudley,PERSON
+Uncle Vernon,PERSON
+Harry’s,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+36,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dudley,PERSON
+Uncle Vernon,PERSON
+Make Harry,WORK_OF_ART
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Three,CARDINAL
+Uncle Vernon’s,PERSON
+Marge,PERSON
+the Isle of Wight,LOC
+Harry,PERSON
+Harry,PERSON
+H. Potter,PERSON
+Cupboard,ORG
+"Privet Drive 
+",FAC
+37,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+Aunt Petunia,LOC
+Dudley,PERSON
+Dad,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+seconds,TIME
+38,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Dudley",ORG
+Uncle,PERSON
+first,ORDINAL
+Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Harry,PERSON
+one,CARDINAL
+Vernon,PRODUCT
+Aunt Petunia,WORK_OF_ART
+39,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Uncle Vernon,PERSON
+Vernon,PERSON
+Harry,PERSON
+Uncle Vernon’s,PERSON
+one,CARDINAL
+Petunia,GPE
+Uncle,PERSON
+Vernon,PERSON
+Harry,PERSON
+Harry,PERSON
+Uncle,PERSON
+Vernon,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+40,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Dudley,PERSON
+second,ORDINAL
+Harry,PERSON
+four,CARDINAL
+one,CARDINAL
+Uncle Vernon,PERSON
+Aunt Petunia,PERSON
+Vernon,ORG
+Marge,PERSON
+Dudley,PERSON
+Dudley,ORG
+first,ORDINAL
+Harry,PERSON
+month-old,DATE
+Dudley,PERSON
+Dudley,PERSON
+first,ORDINAL
+Dudley,PERSON
+Dudley,PERSON
+Dudley,PERSON
+Harry,PERSON
+Yesterday,DATE
+Today,DATE
+41,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Next morning,TIME
+Dudley,PERSON
+Harry,PERSON
+yesterday,DATE
+Uncle Vernon,PERSON
+Aunt Petunia,LOC
+Uncle Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+H. Potter,PERSON
+4,CARDINAL
+Privet Drive,FAC
+Uncle Vernon,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+a minute,TIME
+Uncle Vernon,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+first,ORDINAL
+six o’clock,TIME
+Harry,PERSON
+42,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dursleys,PERSON
+Privet Drive,PERSON
+four,CARDINAL
+Harry,PERSON
+squashy,GPE
+Harry,PERSON
+squashy,NORP
+Uncle Vernon,PERSON
+Harry,PERSON
+Harry,PERSON
+about half,CARDINAL
+Harry,PERSON
+Uncle Vernon’s,PERSON
+Harry,PERSON
+three,CARDINAL
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+that day,DATE
+Aunt Petunia,LOC
+Vernon,PERSON
+Petunia,GPE
+Uncle,PERSON
+43,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Vernon,PERSON
+Aunt Petunia,PRODUCT
+Friday,DATE
+twelve,CARDINAL
+Harry,PERSON
+Uncle Vernon,PERSON
+Saturday,DATE
+Twenty-four,CARDINAL
+Harry,PERSON
+"two 
+dozen",CARDINAL
+Aunt Petunia,PRODUCT
+Uncle Vernon,PERSON
+Aunt Petunia,PERSON
+Dudley,PERSON
+Harry,PERSON
+"•k k k 
+
+
+
+",PERSON
+Sunday,DATE
+morning,TIME
+Uncle Vernon,PERSON
+Sundays,DATE
+today,DATE
+44,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+thirty or,CARDINAL
+Dursleys,PERSON
+Harry,PERSON
+one,CARDINAL
+Vernon,ORG
+Harry,PERSON
+Aunt Petunia,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+"five 
+minutes",TIME
+half,CARDINAL
+Ten minutes later,TIME
+Dudley,PERSON
+Aunt Petunia,LOC
+Uncle Vernon,PERSON
+45,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+all day,DATE
+Dudley,PERSON
+five,CARDINAL
+Uncle Vernon,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+the next day,DATE
+H. Potter,PERSON
+H. Potter,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+46,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Uncle,PERSON
+Vernon,PERSON
+Dudley,PERSON
+Aunt,PERSON
+late that afternoon,TIME
+Uncle Vernon,PERSON
+Dudley,PERSON
+Monday,DATE
+"The Great 
+Humberto’s",WORK_OF_ART
+tonight,TIME
+Monday,DATE
+Harry,PERSON
+Monday,DATE
+Dudley,PERSON
+the days of the week,DATE
+"tomorrow, Tuesday",DATE
+Harry’s eleventh,PERSON
+last year,DATE
+Dursleys,PERSON
+Vernon,ORG
+Uncle Vernon,PERSON
+Aunt Petunia,PRODUCT
+47,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Uncle Vernon,PERSON
+One,CARDINAL
+tonight,TIME
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+only two,CARDINAL
+Vernon,ORG
+four,CARDINAL
+Harry,PERSON
+48,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+second,ORDINAL
+Dudley,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+midnight,TIME
+Dudley’s,ORG
+Harry,PERSON
+ten minutes,TIME
+Dursleys,PERSON
+Five minutes,TIME
+Four minutes,TIME
+Privet Drive,GPE
+Three minutes,TIME
+two minutes,TIME
+One minute,TIME
+Thirty seconds,TIME
+twenty ... ten ... nine,CARDINAL
+Dudley,PERSON
+three,CARDINAL
+two,CARDINAL
+49,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+50,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Where’s the cannon,WORK_OF_ART
+Uncle Vernon,PERSON
+51,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+yeh,PERSON
+Dudley,PERSON
+yeh great lump,PERSON
+Dudley,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Las,GPE
+Yeh,PERSON
+yeh’ve,ORG
+Uncle Vernon,PERSON
+Dursley,GPE
+Uncle Vernon’s,PERSON
+52,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Uncle Vernon,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Birthday Harry,WORK_OF_ART
+Harry,PERSON
+Rubeus Hagrid,PERSON
+Keeper of Keys,PERSON
+Harry,PERSON
+second,ORDINAL
+Harry,PERSON
+53,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+squashy,GPE
+first,ORDINAL
+six,CARDINAL
+Dudley,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+don,PERSON
+Dursley,GPE
+Harry,PERSON
+yeh,PERSON
+I’m Keeper of Keys at Hogwarts,PERSON
+Hogwarts,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Dursleys,PERSON
+"It’s 
+
+Page",WORK_OF_ART
+54,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hogwarts,PERSON
+Harry,PERSON
+second,ORDINAL
+Dursleys,PERSON
+Dursleys,PERSON
+nothin’,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Uncle Vernon,PERSON
+Harry,PERSON
+55,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Yeh,PERSON
+yeh don,PERSON
+Hagrid,GPE
+Harry,PERSON
+Yeh,PERSON
+yeh,PERSON
+Vernon Dursley,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Dumbledore,PERSON
+Dumbledore,PERSON
+Dursley,GPE
+all these years,DATE
+Harry,PERSON
+Uncle Vernon,PERSON
+Hagrid,GPE
+56,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hagrid,GPE
+yeh’ve,ORG
+Harry,PERSON
+H. Potter,PERSON
+The Floor,ORG
+WIZARDRY,ORG
+Chf,PERSON
+International Confed,ORG
+Wizards,ORG
+Potter,PERSON
+Hogwarts School of Witchcraft,ORG
+Wizardry,ORG
+September 1,DATE
+July 31,DATE
+Minerva McGonagall,PERSON
+57,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Questions",ORG
+Harry’s,PERSON
+first,ORDINAL
+"a few 
+minutes",TIME
+Gallopin’ Gorgons,WORK_OF_ART
+Hagrid,GPE
+Harry,PERSON
+Dear Professor Dumbledore,WORK_OF_ART
+Harry,PERSON
+tomorrow,DATE
+Weather,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Uncle Vernon,PERSON
+Hagrid,GPE
+58,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Muggle,PRODUCT
+Hagrid,GPE
+Uncle Vernon,PERSON
+Wizard,PERSON
+Harry,PERSON
+Aunt Petunia,LOC
+Lily,PERSON
+Lily,PERSON
+years,DATE
+Potter,PERSON
+59,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Harry,PERSON
+Hagrid,GPE
+Dursleys,PERSON
+Lily,PERSON
+James Potter,PERSON
+Harry Potter,PERSON
+Harry,PERSON
+Hagrid,GPE
+Dumbledore,PERSON
+yeh,PERSON
+Harry,PERSON
+yeh,PERSON
+Hogwarts,PERSON
+Dursleys,PERSON
+a few seconds,TIME
+60,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Blimey,PERSON
+Hagrid,GPE
+Harry,PERSON
+Voldemort,PRODUCT
+Don,PERSON
+about twenty years ago,DATE
+Harry,PERSON
+One,CARDINAL
+Hogwarts,PERSON
+Reckon Dumbledore’s,PERSON
+their day,DATE
+Dumbledore,PERSON
+Halloween ten years ago,DATE
+Hagrid,GPE
+61,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+McKinnons,ORG
+Bones,ORG
+Prewetts,GPE
+Harry,PERSON
+Hagrid,GPE
+first,ORDINAL
+Hagrid,GPE
+Dumbledore’s,WORK_OF_ART
+Uncle Vernon,PERSON
+Harry,PERSON
+Dursleys,PERSON
+Uncle Vernon,PERSON
+Hagrid,GPE
+62,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Uncle Vernon,FAC
+Dursley,GPE
+one,CARDINAL
+Uncle Vernon,PERSON
+Hagrid,GPE
+Harry,PERSON
+hundreds,CARDINAL
+Harry,PERSON
+63,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+outta kinda,ORG
+Don,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Dudley,PERSON
+Aunt Petunia,PRODUCT
+Uncle,PERSON
+Dudley,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Dudley’s,PERSON
+Dudley,PERSON
+64,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Hagrid,GPE
+Harry Potter,PERSON
+Hogwarts,PERSON
+Uncle Vernon,PERSON
+Stonewall High,PERSON
+Hagrid,GPE
+Stop Lily,PERSON
+James Potter’s,PERSON
+"Seven 
+years",DATE
+Hogwarts,PERSON
+Albus Dumbled,ORG
+Uncle,PERSON
+Dudley,ORG
+65,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+the next second,TIME
+Dudley,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Dudley,PERSON
+one,CARDINAL
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+yeh,PERSON
+Hogwarts,PERSON
+one,CARDINAL
+Harry,PERSON
+Hogwarts,PERSON
+third year,DATE
+half,CARDINAL
+Dumbledore,PERSON
+Dumbledore,PERSON
+tomorrow,DATE
+Hagrid,GPE
+66,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Don,PERSON
+one,CARDINAL
+67,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+
+",ORG
+ALLY,GPE
+early the next morning,TIME
+Hagrid,GPE
+Aunt Petunia,PRODUCT
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+68,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+five,CARDINAL
+Knuts,PERSON
+Hagrid,GPE
+Knuts,PERSON
+Harry,PERSON
+five,CARDINAL
+Harry,PERSON
+69,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+today,DATE
+London,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Uncle,PERSON
+last night,TIME
+Hagrid,GPE
+n’t,GPE
+Nah,PERSON
+first,ORDINAL
+Gringotts,PERSON
+Wizards,ORG
+Gringotts,PERSON
+Harry,PERSON
+70,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Gringotts,PERSON
+Hogwarts,PERSON
+Gringotts,PERSON
+Fer Dumbledore,PERSON
+Hagrid,GPE
+Gringotts,PERSON
+Harry,PERSON
+Hagrid,GPE
+Uncle Vernon,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Hogwarts,PERSON
+Harry,PERSON
+Hagrid,GPE
+71,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+rob Gringotts,PERSON
+Harry,PERSON
+Spells,ORG
+Hagrid,GPE
+yeh,PERSON
+Gringotts,PERSON
+hundreds of miles,QUANTITY
+London,GPE
+Underground,LOC
+yeh,PERSON
+Harry,PERSON
+Hagrid,GPE
+the Daily Prophet Harry,LAW
+Uncle Vernon,PERSON
+Magic,PRODUCT
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hogwarts,PERSON
+Cornelius Fudge,ORG
+Dumbledore,PERSON
+"every 
+morning",TIME
+Ministry of Magic,ORG
+72,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Blimey,PERSON
+Harry,PERSON
+Nah,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Gringotts,PERSON
+Hagrid,GPE
+Crikey,PERSON
+one,CARDINAL
+London,GPE
+five minutes,TIME
+Hagrid,GPE
+Harry,PERSON
+two,CARDINAL
+Harry,PERSON
+Harry,PERSON
+73,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+yeh,PERSON
+Harry,PERSON
+second,ORDINAL
+the night,TIME
+WIZARDRY,ORG
+First-year,DATE
+1,CARDINAL
+Three,CARDINAL
+2,CARDINAL
+One,CARDINAL
+day,DATE
+3,CARDINAL
+One,CARDINAL
+4,CARDINAL
+One,CARDINAL
+winter,DATE
+"Miranda 
+Goshawk",PERSON
+Magic,ORG
+"Bathilda Bagshot 
+
+Magical Theory",ORG
+Adalbert Waffling,PERSON
+"Emeric 
+Switch 
+
+Page",PERSON
+74,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+One Thousand,CARDINAL
+Fungi,PERSON
+Phyllida,PERSON
+Arsenius Jigger,PERSON
+"Newt 
+Scamander",PERSON
+Quentin,PERSON
+1,CARDINAL
+1 cauldron,QUANTITY
+2,CARDINAL
+1,CARDINAL
+1,CARDINAL
+1,CARDINAL
+London,GPE
+Harry,PERSON
+yeh,PERSON
+Hagrid,GPE
+Harry,PERSON
+London,GPE
+Hagrid,GPE
+75,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Dursleys,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Leaky Cauldron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+One,CARDINAL
+Page,ORG
+76,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Hagrid,GPE
+Tom,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Good Lord,WORK_OF_ART
+Harry,PERSON
+The Leaky Cauldron,WORK_OF_ART
+"Harry 
+Potter",WORK_OF_ART
+Harry,PERSON
+Potter,PERSON
+Harry,PERSON
+Harry,PERSON
+the Leaky Cauldron,FAC
+Doris Crockford,PERSON
+Potter,PERSON
+Potter,PERSON
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Potter,PERSON
+Dedalus Diggle,PERSON
+Harry,PERSON
+Dedalus Diggle’s,PERSON
+Dedalus Diggle,PERSON
+Doris,PERSON
+Crockford,ORG
+One,CARDINAL
+Quirrell,PERSON
+Hagrid,GPE
+Harry,PERSON
+Quirrell,ORG
+one,CARDINAL
+Hogwarts,PERSON
+Quirrell,PERSON
+Harry’s,PERSON
+Quirrell,PERSON
+Quirrell,PERSON
+Quirrell,PERSON
+Harry,PERSON
+almost ten minutes,TIME
+Hagrid,GPE
+78,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Doris Crockford,PERSON
+Harry’s,PERSON
+one,CARDINAL
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+yeh,PERSON
+yeh,PERSON
+Quirrell,PERSON
+"a 
+year",DATE
+the Black Forest,ORG
+Vampires,PERSON
+Harry’s,PERSON
+Hagrid,GPE
+Three,CARDINAL
+two,CARDINAL
+Harry,PERSON
+three,CARDINAL
+second,ORDINAL
+Hagrid,GPE
+79,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Diagon Alley,PERSON
+Harry,ORG
+Harry,PERSON
+Brass,PRODUCT
+Hagrid,GPE
+first,ORDINAL
+Harry,PERSON
+about eight,CARDINAL
+Apothecary,PRODUCT
+Dragon liver,WORK_OF_ART
+sixteen,CARDINAL
+Sickles,NORP
+Eeylops Owl Emporium,ORG
+Tawny,PERSON
+Screech,PERSON
+"Barn, Brown",ORG
+Snowy,GPE
+Harry’s,PERSON
+Harry,PERSON
+Nimbus,ORG
+Two Thousand,CARDINAL
+Harry,PERSON
+Gringotts,PERSON
+Hagrid,GPE
+80,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+second,ORDINAL
+Hagrid,GPE
+About a hundred,CARDINAL
+81,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+Morning,WORK_OF_ART
+Hagrid,GPE
+Harry Potter,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Dumbledore,PERSON
+Hagrid,GPE
+seven hundred and thirteen,CARDINAL
+Hagrid,GPE
+Harry,PERSON
+82,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+What’s the You-Know-What,WORK_OF_ART
+seven hundred,CARDINAL
+thirteen,CARDINAL
+Harry,PERSON
+Hagrid,GPE
+Dumbledore,PERSON
+Harry,PERSON
+Hagrid,GPE
+first,ORDINAL
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Stalagmite’s,WORK_OF_ART
+Hagrid,GPE
+83,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+Knuts,PERSON
+Hagrid,GPE
+Dursleys,PERSON
+Harry,PERSON
+London,GPE
+Hagrid,GPE
+Harry,PERSON
+Galleons,PERSON
+Seventeen,CARDINAL
+Sickles,NORP
+twenty-nine,CARDINAL
+Griphook,GPE
+"Vault seven 
+hundred and thirteen now",ORG
+One,CARDINAL
+Griphook,PERSON
+Harry,PERSON
+Hagrid,GPE
+84,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+seven hundred and thirteen,CARDINAL
+Griphook,PERSON
+one,CARDINAL
+Gringotts,PERSON
+Harry,PERSON
+Griphook,PERSON
+Harry,PERSON
+first,ORDINAL
+Harry,PERSON
+Hagrid,GPE
+One,CARDINAL
+Gringotts,PERSON
+Harry,PERSON
+first,ORDINAL
+Dudley,PERSON
+85,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Malkin’s Robes,PERSON
+Harry,PERSON
+the Leaky Cauldron,FAC
+Gringotts,PERSON
+Harry,PERSON
+Malkin,PERSON
+Malkin,PERSON
+Harry,PERSON
+second,ORDINAL
+Malkin,PERSON
+Harry,PERSON
+Harry,PERSON
+first years,DATE
+Harry,PERSON
+Dudley,GPE
+Harry,PERSON
+Play Quidditch,WORK_OF_ART
+86,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Quidditch,PERSON
+House,ORG
+House,ORG
+11,CARDINAL
+Harry,PERSON
+the minute,TIME
+Slytherin,GPE
+Hufflepuff,GPE
+Harry,PERSON
+Harry,PERSON
+two,CARDINAL
+That’s Hagrid,WORK_OF_ART
+Harry,PERSON
+n’t,GPE
+Harry,PERSON
+Harry,PERSON
+87,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hogwarts,PERSON
+Harry,PERSON
+Madam Malkin,PERSON
+Harry,PERSON
+Hogwarts,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Quidditch,PERSON
+88,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Blimey,PERSON
+Harry,PERSON
+Quidditch,NORP
+Harry,PERSON
+Hagrid,GPE
+Malkin’s,PERSON
+Muggle,PRODUCT
+Muggle,PRODUCT
+the Leaky Cauldron,PERSON
+Quidditch,PERSON
+Muggle,LOC
+Quidditch,PERSON
+four,CARDINAL
+Slytherin,ORG
+Hufflepuff,ORG
+School Houses,WORK_OF_ART
+four,CARDINAL
+Hufflepuff,ORG
+Hufflepuff,GPE
+Harry,PERSON
+Better Hufflepuff,ORG
+Slytherin,ORG
+Hagrid,GPE
+Slytherin,GPE
+Hogwarts,PERSON
+Years an’ years ago,DATE
+Hagrid,GPE
+89,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry’s,PERSON
+Flourish,NORP
+Blotts,GPE
+Dudley,PERSON
+Harry,PERSON
+Curses,GPE
+Bewitch Your Friends,ORG
+the Latest Revenges: Hair Loss,ORG
+Jelly-Legs,ORG
+Tongue-Tying,ORG
+Vindictus Viridian,PERSON
+Dudley,PERSON
+Muggle,LOC
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Apothecary,PRODUCT
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+twenty-one,CARDINAL
+five,CARDINAL
+90,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Apothecary,LOC
+Hagrid,GPE
+Harry’s,PERSON
+Harry,PERSON
+"years 
+ago",DATE
+Twenty minutes later,TIME
+jewel-bright,PERSON
+Harry,PERSON
+Don,PERSON
+Hagrid,GPE
+Don,PERSON
+Dursleys,PERSON
+Ollivanders,ORG
+yeh,PERSON
+Harry,PERSON
+382b,PRODUCT
+91,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Harry,PERSON
+thousands,CARDINAL
+afternoon,TIME
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry Potter,PERSON
+yesterday,DATE
+first,ORDINAL
+Ten,CARDINAL
+a quarter inches,QUANTITY
+Ollivander,PERSON
+Harry,PERSON
+Harry,PERSON
+creepy,NORP
+Eleven inches,QUANTITY
+92,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ollivander,PERSON
+Harry,PERSON
+Harry,PERSON
+Ollivander,PERSON
+Harry’s,PERSON
+Harry’s,PERSON
+Hagrid,GPE
+sixteen inches,QUANTITY
+Hagrid,GPE
+half,CARDINAL
+Ollivander,PERSON
+Hagrid,GPE
+Ollivander,PERSON
+Hagrid,GPE
+Harry,PERSON
+Ollivander,PERSON
+Hagrid,GPE
+Potter,PERSON
+93,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Harry,PERSON
+Potter,PERSON
+two,CARDINAL
+Harry,PERSON
+Ollivander,PERSON
+Beech,PERSON
+Nine inches,QUANTITY
+Harry,PERSON
+Ollivander,PERSON
+Seven inches,QUANTITY
+Harry,PERSON
+Ollivander,PERSON
+94,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+eight,CARDINAL
+"a 
+half inches",QUANTITY
+Harry,PERSON
+Ollivander,PERSON
+Tricky,ORG
+eleven inches,QUANTITY
+Harry,PERSON
+Ollivander,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Ollivander,PERSON
+Harry,PERSON
+Potter,PERSON
+just one,CARDINAL
+Harry,PERSON
+95,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+thirteen,CARDINAL
+Potter,PERSON
+Harry,PERSON
+seven,CARDINAL
+Ollivander,PERSON
+late afternoon,TIME
+Harry,PERSON
+Hagrid,GPE
+Diagon Alley,ORG
+"the Leaky 
+Cauldron",ORG
+Harry,PERSON
+Harry’s,PERSON
+Paddington,ORG
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+the Leaky Cauldron,ORG
+96,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Quirrell,PERSON
+Ollivander,PERSON
+Hagrid,GPE
+Don,PERSON
+Harry,PERSON
+Hogwarts,PERSON
+Hagrid,GPE
+Harry,PERSON
+Dursleys,PERSON
+Hogwarts,PERSON
+First,ORDINAL
+September,DATE
+King’s Cross,ORG
+Dursleys,PERSON
+yeh,PERSON
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+97,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry’s,PERSON
+last month,DATE
+Dursleys,PERSON
+Dudley,PERSON
+Harry,PERSON
+Aunt Petunia,PRODUCT
+Vernon,PERSON
+Harry,PERSON
+Half,CARDINAL
+half,CARDINAL
+Harry,PERSON
+Harry,PERSON
+Hedwig,NORP
+Magic,PRODUCT
+the night,TIME
+Hedwig,NORP
+Aunt,PERSON
+Hedwig,NORP
+Every night,TIME
+Harry,PERSON
+another day,DATE
+98,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+September,DATE
+first,ORDINAL
+the last day of August,DATE
+"King’s 
+Cross",ORG
+the next day,DATE
+Dudley,PERSON
+Uncle Vernon,PERSON
+King’s Cross,ORG
+tomorrow,DATE
+Hogwarts,PERSON
+Uncle Vernon,PERSON
+Grunt,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+Magic,PRODUCT
+Harry,PERSON
+Harry,PERSON
+first,ORDINAL
+Hagrid,GPE
+99,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+nine,CARDINAL
+"three- 
+quarters",DATE
+eleven o’clock,TIME
+Platform,WORK_OF_ART
+Nine,CARDINAL
+Uncle Vernon,PERSON
+Uncle Vernon,PERSON
+11,CARDINAL
+King’s Cross,ORG
+London,GPE
+tomorrow,DATE
+London,GPE
+Harry,PERSON
+Taking Dudley,WORK_OF_ART
+Uncle,PERSON
+Smeltings,PERSON
+Harry,PERSON
+five o’clock the next morning,TIME
+Hedwig,NORP
+Dursleys,PERSON
+Two hours later,TIME
+Harry’s,PERSON
+Dursleys,PERSON
+Aunt Petunia,PRODUCT
+Dudley,PERSON
+Harry,PERSON
+100,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+King’s Cross,ORG
+half past ten,DATE
+Vernon,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Uncle Vernon,PERSON
+nine,CARDINAL
+ten,CARDINAL
+nine,CARDINAL
+ten,CARDINAL
+Uncle Vernon,PERSON
+Dursleys,PERSON
+three,CARDINAL
+Harry’s,PERSON
+Hedwig,NORP
+Hogwarts,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+eleven o’clock,TIME
+Harry,PERSON
+ten minutes,TIME
+Hogwarts,PERSON
+101,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+third,ORDINAL
+Diagon Alley,ORG
+Harry,PERSON
+four,CARDINAL
+Harry’s,PERSON
+Harry,PERSON
+Nine,CARDINAL
+Ginny,PERSON
+Percy,PERSON
+first,ORDINAL
+nine,CARDINAL
+Harry,PERSON
+two,CARDINAL
+102,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+"Sorry, George",WORK_OF_ART
+second,ORDINAL
+third,ORDINAL
+Harry,PERSON
+First,ORDINAL
+Ron’s,PERSON
+Harry,PERSON
+Harry,PERSON
+nine,CARDINAL
+ten,CARDINAL
+Ron,PERSON
+103,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+nine,CARDINAL
+Harry,PERSON
+"Hogwarts 
+Express",ORG
+eleven o’clock,TIME
+Harry,PERSON
+Platform Nine,PERSON
+one,CARDINAL
+first,ORDINAL
+Harry,PERSON
+Gran,PERSON
+Neville,GPE
+104,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Lee,PERSON
+Harry,PERSON
+Hedwig,NORP
+first,ORDINAL
+one,CARDINAL
+Harry,PERSON
+Harry’s,PERSON
+Harry,PERSON
+one,CARDINAL
+Harry’s,PERSON
+Blimey,PERSON
+first,ORDINAL
+Harry,PERSON
+Harry,PERSON
+105,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry Potter,PERSON
+Harry,PERSON
+two,CARDINAL
+Harry,PERSON
+George,PERSON
+"Coming, Mom",WORK_OF_ART
+Harry,PERSON
+Harry,PERSON
+half,CARDINAL
+Ron,PERSON
+Aaah,ORG
+Ronnie,PERSON
+one,CARDINAL
+Ron,PERSON
+Where’s Percy,WORK_OF_ART
+106,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+two,CARDINAL
+Percy,PERSON
+one,CARDINAL
+A minute,TIME
+All summer,DATE
+Percy the Prefect,PERSON
+Percy,PERSON
+one,CARDINAL
+Percy,PERSON
+two,CARDINAL
+this year,DATE
+one,CARDINAL
+Mom,PERSON
+107,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Ronniekins,GPE
+Ron,PERSON
+Harry,PERSON
+Harry Potted,PERSON
+Harry,PERSON
+Mom,PERSON
+Mom,PERSON
+Ginny,PERSON
+Fred,PERSON
+108,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Fred,PERSON
+his first day,DATE
+three,CARDINAL
+Ginny,PERSON
+Hogwarts,PERSON
+half,CARDINAL
+half,CARDINAL
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+109,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Lee Jordan’s,PERSON
+Ron,PERSON
+Harry,PERSON
+Fred,PERSON
+George Weasley,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry Potter,PERSON
+Ron,PERSON
+Harry,PERSON
+Fred,PERSON
+George’s,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+110,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Ron,PERSON
+Mom,PERSON
+second,ORDINAL
+Diagon Alley,ORG
+Ron,PERSON
+three,CARDINAL
+Five,CARDINAL
+Ron,PERSON
+sixth,ORDINAL
+Hogwarts,PERSON
+Bill,PERSON
+Charlie,PERSON
+Bill,PERSON
+Charlie,PERSON
+Quidditch,PERSON
+Percy,PERSON
+George,PERSON
+first,ORDINAL
+five,CARDINAL
+111,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Bill’s old,PERSON
+Charlie’s old,PERSON
+Percy,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+a month ago,DATE
+Ron,PERSON
+Dudley,PERSON
+Ron,PERSON
+Hagrid,GPE
+Voldemort,PRODUCT
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+first,ORDINAL
+112,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Muggle,PRODUCT
+London,GPE
+Harry,PERSON
+Ron’s,PERSON
+Harry,PERSON
+Dursleys,PERSON
+"Mars 
+Bars",PRODUCT
+Bertie Bott’s,PERSON
+"Every Flavor Beans, Drooble’s Best Blowing Gum",WORK_OF_ART
+Chocolate Frogs,PERSON
+Pumpkin Pasties,ORG
+Cauldron Cakes,PERSON
+Licorice Wands,PERSON
+Harry,PERSON
+eleven,CARDINAL
+Sickles,NORP
+seven,CARDINAL
+Knuts,PERSON
+Ron,PERSON
+Harry,PERSON
+113,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Starving,WORK_OF_ART
+Harry,PERSON
+Ron,PERSON
+four,CARDINAL
+one,CARDINAL
+Harry,PERSON
+Ron,PERSON
+five,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Chocolate Frogs,FAC
+Ron,PERSON
+Agrippa,PERSON
+Chocolate Frogs,FAC
+"about five 
+hundred",CARDINAL
+Agrippa,PERSON
+Harry,PERSON
+Chocolate Frog,FAC
+half,CARDINAL
+114,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Albus Dumbledore,ORG
+Dumbledore,PERSON
+Harry,PERSON
+Dumbledore,ORG
+Ron,PERSON
+Agrippa,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Grindelwald,PERSON
+1945,DATE
+twelve,CARDINAL
+Nicolas Flamel,PERSON
+Dumbledore,PERSON
+ten,CARDINAL
+Harry,PERSON
+Dumbledore,PERSON
+Ron,PERSON
+Morgana,PERSON
+about six,CARDINAL
+Ron,PERSON
+Chocolate Frogs,FAC
+Harry,PERSON
+115,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Dumbledore,ORG
+Ron,PERSON
+the Famous Witches and Wizards,ORG
+Harry,PERSON
+Dumbledore,PERSON
+Morgana,PERSON
+Hengist of Woodcraft,ORG
+Alberic Grunnion,ORG
+Paracelsus,PERSON
+Merlin,NORP
+Cliodna,PERSON
+"Bertie 
+Bott’s Every Flavor Beans",ORG
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Bleaaargh,PERSON
+Harry,PERSON
+strawberry,ORG
+one,CARDINAL
+Ron,PERSON
+Harry,PERSON
+116,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Ron’s,PERSON
+Ron,PERSON
+yesterday,DATE
+Unicorn hair’s,WORK_OF_ART
+Neville,ORG
+one,CARDINAL
+117,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Ron,PERSON
+Sunshine,ORG
+Hermione Granger,PERSON
+Harry,PERSON
+Ron,PERSON
+I’m Ron Weasley,WORK_OF_ART
+Ron muttered,PERSON
+Harry Potter,PERSON
+Harry,PERSON
+118,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,PERSON
+Modern Magical,LOC
+Great Wizarding Events,ORG
+the Twentieth Century,ORG
+Harry,PERSON
+Hermione,PERSON
+House,ORG
+Gryffindor,GPE
+Dumbledore,PERSON
+Ravenclaw,ORG
+Neville,ORG
+two,CARDINAL
+Whatever House I’m,WORK_OF_ART
+Ron,PERSON
+George,PERSON
+House,ORG
+Harry,PERSON
+Ron,PERSON
+Mom and Dad,WORK_OF_ART
+Ravenclaw,ORG
+Slytherin,GPE
+That’s the House,WORK_OF_ART
+Ron,PERSON
+119,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Houses,ORG
+Harry,PERSON
+Charlie’s,WORK_OF_ART
+Romania,GPE
+Bill’s,PERSON
+Africa,LOC
+Gringotts,PERSON
+Ron,PERSON
+Gringotts,PERSON
+"the Daily 
+Prophet",EVENT
+Harry,PERSON
+Gringotts,PERSON
+Harry,PERSON
+Voldemort,PRODUCT
+Quidditch,NORP
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+four,CARDINAL
+120,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+seven,CARDINAL
+Harry,PERSON
+Neville,GPE
+Hermione Granger,PERSON
+Three,CARDINAL
+Harry,PERSON
+Malkin,PERSON
+Harry,PERSON
+Diagon Alley,ORG
+Harry Potter’s,PERSON
+Harry,PERSON
+Crabbe,ORG
+Goyle,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Draco Malfoy,PERSON
+Ron,PERSON
+Draco Malfoy,PERSON
+Weasleys,PERSON
+Harry,PERSON
+121,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry’s,PERSON
+Harry,PERSON
+Draco Malfoy,ORG
+Potter,PERSON
+Hagrid,GPE
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Crabbe and Goyle,ORG
+Ron,PERSON
+Goyle,PERSON
+the Chocolate Frogs,FAC
+Ron — Ron,PERSON
+"Goyle, Goyle",FAC
+Goyle ’s,FAC
+Malfoy,PERSON
+Goyle swung Scabbers,FAC
+three,CARDINAL
+122,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+second,ORDINAL
+Hermione Granger,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Diagon Alley,ORG
+Ron,PERSON
+first,ORDINAL
+Malfoy’s,PERSON
+Hermione,ORG
+Ron,PERSON
+Hermione,ORG
+123,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Ron’s,PERSON
+five minutes,TIME
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Firs’ years,WORK_OF_ART
+Harry,PERSON
+Hagrid,GPE
+years,DATE
+years,DATE
+Hagrid,GPE
+Harry,PERSON
+124,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Neville,GPE
+sec,ORG
+Hagrid,GPE
+four,CARDINAL
+Hagrid,GPE
+Harry,PERSON
+Ron,PERSON
+Neville,GPE
+Hermione,ORG
+Hagrid,GPE
+Hagrid,GPE
+first,ORDINAL
+Hagrid,GPE
+125,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Neville,ORG
+Hagrid,GPE
+Hagrid,GPE
+three,CARDINAL
+126,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+7,CARDINAL
+Harry’s,PERSON
+first,ORDINAL
+McGonagall,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Dursleys,PERSON
+Gringotts,PERSON
+McGonagall,PERSON
+Harry,PERSON
+hundreds,CARDINAL
+McGonagall,PERSON
+the first years,DATE
+127,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+McGonagall,PERSON
+the Great Hall,FAC
+Houses,ORG
+Sorting,ORG
+House,ORG
+Hogwarts,PERSON
+House,ORG
+House,ORG
+House,ORG
+four,CARDINAL
+Houses,ORG
+Gryffindor,GPE
+Hufflepuff,ORG
+Ravenclaw,ORG
+Slytherin,ORG
+House,ORG
+Hogwarts,PERSON
+House,ORG
+House,ORG
+"the 
+year",DATE
+House,ORG
+House,ORG
+House,ORG
+The Sorting Ceremony,ORG
+"a few 
+minutes",TIME
+Neville,ORG
+Ron’s,PERSON
+Harry,PERSON
+McGonagall,PERSON
+Harry,PERSON
+128,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Houses,ORG
+Ron,PERSON
+Fred,PERSON
+Harry,PERSON
+Hermione Granger,PERSON
+Harry,PERSON
+Dursleys,PERSON
+second,ORDINAL
+McGonagall,PERSON
+"About 
+twenty",CARDINAL
+the first years,DATE
+second,ORDINAL
+Peeves,ORG
+129,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+the first years,DATE
+Hufflepuff,LOC
+House,ORG
+"The Sorting 
+Ceremony",ORG
+McGonagall,PERSON
+One,CARDINAL
+McGonagall,PERSON
+"the first 
+years",DATE
+Harry,PERSON
+Ron,PERSON
+the Great Hall,FAC
+Harry,PERSON
+thousands and thousands,CARDINAL
+four,CARDINAL
+McGonagall,PERSON
+the first years,DATE
+130,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+hundreds,CARDINAL
+Harry,PERSON
+Hogwarts,PERSON
+the Great Hall,FAC
+Harry,PERSON
+McGonagall,ORG
+four,CARDINAL
+the first years,DATE
+Harry,PERSON
+a few seconds,TIME
+131,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+The Sorting Hat,ORG
+Gryffindor,GPE
+Hufflepuff,GPE
+Hufflepuffs,NORP
+Ravenclaw,ORG
+"Slytherin 
+
+Page",LOC
+132,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+four,CARDINAL
+Ron,PERSON
+Harry,PERSON
+Fred,PERSON
+Harry,PERSON
+Harry,PERSON
+House,ORG
+McGonagall,PERSON
+Abbott,GPE
+Hannah,PERSON
+133,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+HUFFLEPUFF,ORG
+Hannah,PERSON
+Hufflepuff,ORG
+Harry,PERSON
+Susan,PERSON
+HUFFLEPUFF,ORG
+Susan,PERSON
+Hannah,PERSON
+Terry,PERSON
+RAVENCLAW,ORG
+second,ORDINAL
+Ravenclaws,ORG
+Terry,PERSON
+"Brocklehurst, Mandy",WORK_OF_ART
+Ravenclaw,ORG
+"Brown, Lavender",WORK_OF_ART
+first,ORDINAL
+Harry,PERSON
+Ron’s,PERSON
+"Bulstrode, Millicent",WORK_OF_ART
+Slytherin,NORP
+Harry’s,PERSON
+Slytherin,ORG
+Dudley,PERSON
+134,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Finch-Fletchley,WORK_OF_ART
+Justin,ORG
+HUFFLEPUFF,WORK_OF_ART
+Harry,PERSON
+House,ORG
+Finnigan,GPE
+Seamus,GPE
+Harry,PERSON
+"Granger, Hermione",WORK_OF_ART
+Ron,PERSON
+Harry,PERSON
+Neville Longbottom,PERSON
+Neville,GPE
+Neville,PERSON
+MacDougal,GPE
+Morag,GPE
+Malfoy,PERSON
+SLYTHERIN,WORK_OF_ART
+Malfoy,PERSON
+Crabbe and Goyle,ORG
+135,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Moon,PERSON
+Nott,ORG
+Perks,WORK_OF_ART
+"Potter, Harry!",WORK_OF_ART
+Harry,PERSON
+The Harry Potter,WORK_OF_ART
+Harry,PERSON
+Harry,PERSON
+Slytherin,ORG
+Slytherin,ORG
+Harry,PERSON
+Gryffindor,PERSON
+Slytherin,GPE
+136,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Weasley,PERSON
+Potter,PERSON
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+the High Table,ORG
+Albus Dumbledore,ORG
+Harry,PERSON
+the Chocolate Frog,LAW
+Dumbledore,PERSON
+Harry,PERSON
+Quirrell,PERSON
+the Leaky Cauldron,ORG
+only four,CARDINAL
+Thomas,PERSON
+Dean,PERSON
+Ron,PERSON
+Harry,PERSON
+Gryffindor,PERSON
+Turpin,ORG
+Lisa,PERSON
+Ravenclaw,ORG
+Ron’s,PERSON
+Harry,PERSON
+second,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Percy Weasley,PERSON
+Harry,PERSON
+Slytherin,ORG
+McGonagall,PERSON
+Harry,PERSON
+ages ago,DATE
+137,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Albus Dumbledore,PERSON
+a new year,DATE
+Harry,PERSON
+Percy,PERSON
+Percy,PERSON
+Harry,PERSON
+Harry’s,PERSON
+one,CARDINAL
+Yorkshire,PERSON
+Dursleys,PERSON
+Harry,PERSON
+Dudley,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+138,QUANTITY
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+nearly five hundred years,DATE
+Nicholas de Mimsy-Porpington,ORG
+Gryffindor Tower,FAC
+Ron,PERSON
+Nicholas de Mimsy,PERSON
+Seamus,GPE
+Finnigan,GPE
+Nicholas,PERSON
+House Championship,FAC
+this year,DATE
+the cup six years in a row,DATE
+The Bloody Baron’s,ORG
+Slytherin,WORK_OF_ART
+Harry,PERSON
+Slytherin,NORP
+Malfoy,PERSON
+Harry,PERSON
+139,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Seamus,GPE
+Harry,PERSON
+Seamus,GPE
+Muggle,PRODUCT
+Neville,GPE
+Ron,PERSON
+Neville,ORG
+Muggle,PRODUCT
+eight,CARDINAL
+Great Auntie Enid,ORG
+140,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Gran,PERSON
+Harry,PERSON
+Percy Weasley,PERSON
+Hermione,PERSON
+Transfiguration,GPE
+Harry,PERSON
+McGonagall,PERSON
+Dumbledore,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry’s,PERSON
+Harry,PERSON
+Harry,PERSON
+Percy,PERSON
+Harry,PERSON
+Harry,PERSON
+141,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Quirrell,PERSON
+Percy,PERSON
+Quirrell,ORG
+Quirrell,ORG
+the Dark Arts,ORG
+Snape,LOC
+Harry,PERSON
+Snape,ORG
+Dumbledore,PERSON
+Ahem,ORG
+Dumbledore ’s,WORK_OF_ART
+Weasley,PERSON
+Filch,PERSON
+the second week,DATE
+House,ORG
+Madam Hooch,PERSON
+this year,DATE
+142,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K. Rowling,ORG
+Harry,PERSON
+Percy,GPE
+Percy,PERSON
+Dumbledore,ORG
+Dumbledore,PRODUCT
+Harry,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+"Hogwarts, Hogwarts,",WORK_OF_ART
+Hoggy Warty Hogwarts,PERSON
+143,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Weasley,PERSON
+Dumbledore,PERSON
+first years,DATE
+Percy,PERSON
+the Great Hall,FAC
+Harry,PERSON
+Percy,PERSON
+Harry,PERSON
+Percy,PERSON
+Peeves,WORK_OF_ART
+the first years,DATE
+144,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+the Bloody Baron,ORG
+Oooooooh,PERSON
+Peeves,ORG
+Percy,PERSON
+Neville,ORG
+Peeves,ORG
+Percy,PERSON
+The Bloody Baron’s,ORG
+Password,PRODUCT
+Caput Draconis,PERSON
+Percy,PERSON
+Neville,ORG
+squashy,NORP
+Percy,PERSON
+145,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K. Rowling,ORG
+five,CARDINAL
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Quirrell,ORG
+Slytherin,ORG
+Harry,PERSON
+Slytherin,GPE
+Malfoy,PERSON
+Malfoy,PERSON
+Snape,ORG
+Harry,PERSON
+next day,DATE
+146,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+the next day,DATE
+Harry,PERSON
+a hundred and forty-two,CARDINAL
+Friday,DATE
+147,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone -J.K. Rowling 
+
+
+
+",ORG
+Harry,PERSON
+one,CARDINAL
+Gryffindors,ORG
+Poltergeist,NORP
+two,CARDINAL
+Peeves,ORG
+Argus Filch,ORG
+Harry,PERSON
+Ron,PERSON
+their very first morning,TIME
+Filch,PERSON
+third,ORDINAL
+Quirrell,PERSON
+Filch,ORG
+Norris,PERSON
+Filch,PERSON
+Filch,PERSON
+"two 
+seconds",TIME
+148,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Weasley,PERSON
+Norris,PERSON
+Harry,PERSON
+midnight,TIME
+Three,CARDINAL
+Herbology,PERSON
+Sprout,PERSON
+Magic,ORG
+"next 
+morning",TIME
+Emeric the Evil,ORG
+Uric,PERSON
+Flitwick,PERSON
+Charms,ORG
+first,ORDINAL
+Harry’s,PERSON
+McGonagall,PERSON
+Harry,PERSON
+149,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+first,ORDINAL
+Hogwarts,PERSON
+"Hermione 
+Granger",PERSON
+McGonagall,PERSON
+Defense Against the Dark Arts,ORG
+Quirrell,ORG
+Romania,GPE
+African,NORP
+one,CARDINAL
+Seamus,GPE
+Finnigan,GPE
+Quirrell,ORG
+Quirrell,ORG
+Weasley,PERSON
+Quirrell,ORG
+150,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Muggle,PRODUCT
+Ron,PERSON
+Friday,DATE
+an important day,DATE
+Harry,PERSON
+Ron,PERSON
+"the Great 
+Hall",FAC
+today,DATE
+Harry,PERSON
+Ron,PERSON
+Double Potions,WORK_OF_ART
+Slytherins,LOC
+Ron,PERSON
+Snape’s Head,WORK_OF_ART
+Slytherin House,ORG
+Wish McGonagall,WORK_OF_ART
+Harry,PERSON
+McGonagall,PERSON
+Gryffindor House,ORG
+the day before,DATE
+Harry,PERSON
+first,ORDINAL
+about a hundred,CARDINAL
+the Great Hall,FAC
+Hedwig,NORP
+Harry,PERSON
+This morning,TIME
+Harry,PERSON
+151,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dear Harry,PERSON
+Friday,DATE
+first week,DATE
+Hedwig,NORP
+Hagrid,GPE
+Harry,PERSON
+Ron’s quill,PERSON
+Hedwig,NORP
+Harry,PERSON
+Hagrid,GPE
+Potions,NORP
+Harry,PERSON
+Snape,PERSON
+first,ORDINAL
+Potions,NORP
+Snape,ORG
+Harry,PERSON
+one,CARDINAL
+creepy,NORP
+Flitwick,FAC
+Flitwick,FAC
+Harry’s,ORG
+Harry Potter,PERSON
+Draco Malfoy,PERSON
+Crabbe and Goyle,ORG
+Snape,ORG
+Hagrid,GPE
+Hagrid,GPE
+152,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+McGonagall,PERSON
+Snape,ORG
+Harry,PERSON
+Ron,PERSON
+"Hermione 
+Granger",PERSON
+Snape,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Harry,PERSON
+Snape,ORG
+Hermione,ORG
+153,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+"Malfoy, Crabbe",ORG
+Goyle,PERSON
+Potter,PERSON
+Harry,PERSON
+Snape,PRODUCT
+Fungi,PERSON
+Snape,ORG
+Hermione,ORG
+Potter,PERSON
+Hermione,ORG
+Harry,PERSON
+Harry,PERSON
+Seamus,GPE
+Seamus,GPE
+Hermione,ORG
+Potter,PERSON
+154,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,ORG
+Gryffindor House,ORG
+Potter,PERSON
+Gryffindors,ORG
+Malfoy,PERSON
+Malfoy,PERSON
+Neville,ORG
+Seamus,GPE
+Neville,ORG
+Snape,ORG
+one,CARDINAL
+Snape,ORG
+Seamus,GPE
+Harry,PERSON
+Ron,PERSON
+Neville,GPE
+155,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Snape,ORG
+"an hour 
+later",TIME
+Harry’s,PERSON
+two,CARDINAL
+Gryffindor,PERSON
+first week,DATE
+Snape,ORG
+Ron,PERSON
+Snape,ORG
+Fred,PERSON
+George,PERSON
+Hagrid,GPE
+five to three,CARDINAL
+Harry,PERSON
+Hagrid,GPE
+Fang,PERSON
+Hagrid,GPE
+Fang,PERSON
+only one,CARDINAL
+156,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Fang,PERSON
+Ron,PERSON
+Hagrid,GPE
+Fang,PERSON
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Weasley,GPE
+Hagrid,GPE
+Ron’s,PERSON
+half,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Hagrid,GPE
+first,ORDINAL
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Hagrid,GPE
+Filch,PERSON
+Norris,PERSON
+Fang,PERSON
+Filch,PERSON
+Harry,PERSON
+Hagrid,GPE
+Snape,ORG
+Hagrid,GPE
+Ron,PERSON
+Harry,PERSON
+Snape,ORG
+Hagrid,GPE
+157,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hagrid,GPE
+Charlie,PERSON
+Hagrid,GPE
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Ron,PERSON
+Hagrid,GPE
+Charlie,PERSON
+Harry,PERSON
+"the Daily Prophet : 
+
+GRINGOTTS BREAK-IN LATEST 
+
+Investigations",WORK_OF_ART
+Gringotts,PERSON
+3 1 July,DATE
+Dark,ORG
+Gringotts,PERSON
+today,DATE
+the same day,DATE
+Gringotts,PERSON
+this afternoon,TIME
+Harry,PERSON
+Ron,PERSON
+rob Gringotts,PERSON
+Ron,PERSON
+Hagrid,GPE
+Harry,PERSON
+Gringotts,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+earlier that same day,DATE
+Hagrid,GPE
+seven,CARDINAL
+158,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+hundred and thirteen,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Hagrid,GPE
+Snape,PRODUCT
+Harry,PERSON
+159,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+9,CARDINAL
+Harry,PERSON
+Dudley,PERSON
+Draco Malfoy,ORG
+first-year,DATE
+Slytherins,LOC
+Malfoy,PERSON
+Gryffindor,GPE
+Thursday,DATE
+Slytherin,ORG
+Harry,PERSON
+Malfoy,PERSON
+Ron,PERSON
+Malfoy,PERSON
+Quidditch,PERSON
+160,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Malfoy,PERSON
+about first years,DATE
+House,ORG
+Seamus Finnigan,PERSON
+Ron,PERSON
+Charlie,PERSON
+Quidditch,NORP
+Ron,PERSON
+"Dean 
+Thomas",PERSON
+Ron,PERSON
+only one,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Dean,PERSON
+West,LOC
+Neville,ORG
+Harry,PERSON
+Neville,GPE
+Hermione Granger,PERSON
+Neville,GPE
+Thursday,DATE
+Quidditch Through,WORK_OF_ART
+Neville,PERSON
+Hermione,PERSON
+Harry,PERSON
+Hagrid,GPE
+Malfoy,PERSON
+Malfoy ’s,PERSON
+161,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Slytherin,NORP
+Neville,GPE
+It’s a Remembrall,WORK_OF_ART
+Remembrall,PERSON
+Neville,PERSON
+Draco Malfoy,PERSON
+Gryffindor,PERSON
+Remembrall,PERSON
+Harry,PERSON
+Ron,PERSON
+half,CARDINAL
+Malfoy,PERSON
+McGonagall,PERSON
+Malfoy’s,PERSON
+Remembrall,WORK_OF_ART
+Malfoy,PERSON
+Remembrall,PERSON
+Crabbe and Goyle,WORK_OF_ART
+three-thirty,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Gryffindors,ORG
+first,ORDINAL
+Page,ORG
+162,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Slytherins,LOC
+twenty,CARDINAL
+Fred,PERSON
+George Weasley,PERSON
+Madam Hooch,PERSON
+Harry,PERSON
+Stick,FAC
+Madam Hooch,PERSON
+Harry’s,PERSON
+Hermione Granger’s,PERSON
+Neville,ORG
+Harry,PERSON
+Neville,GPE
+Hooch,PERSON
+Harry,PERSON
+Ron,PERSON
+Malfoy,PERSON
+years,DATE
+163,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Madam Hooch,PERSON
+a few feet,QUANTITY
+three,CARDINAL
+two,CARDINAL
+Neville,GPE
+Neville,PERSON
+"twelve 
+feet",QUANTITY
+twenty feet,QUANTITY
+Harry,PERSON
+Neville,GPE
+Hooch,PERSON
+Neville,GPE
+Broken,PERSON
+Harry,PERSON
+Hogwarts,PERSON
+Neville,GPE
+Madam Hooch,PERSON
+164,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+Slytherins,ORG
+Malfoy,PERSON
+Parvati Patil,PERSON
+Longbottom,GPE
+Pansy,PRODUCT
+Slytherin,ORG
+Parvati,GPE
+Malfoy,PERSON
+Longbottom,GPE
+Malfoy,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Longbottom,GPE
+Harry,PERSON
+Malfoy,PERSON
+Potter,PERSON
+Harry,PERSON
+Hermione Granger,PERSON
+Hooch,PERSON
+165,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Malfoy,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+No Crabbe and Goyle up,WORK_OF_ART
+Malfoy,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+next second,TIME
+166,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Remembrall,PERSON
+McGonagall,PERSON
+McGonagall,PERSON
+Patil,PERSON
+Malfoy,PERSON
+Weasley,PERSON
+Harry,PERSON
+"Malfoy, Crabbe",ORG
+Goyle’s,PERSON
+McGonagall,PERSON
+McGonagall,PERSON
+two weeks,DATE
+ten minutes,TIME
+167,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+McGonagall,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Ron,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Flitwick,PERSON
+Harry,PERSON
+Wood,ORG
+Wood,ORG
+fifth-year,DATE
+Flitwick’s,FAC
+two,CARDINAL
+McGonagall,PERSON
+Wood,ORG
+Harry,PERSON
+McGonagall,PERSON
+Peeves,ORG
+bin,ORG
+McGonagall,PERSON
+two,CARDINAL
+168,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Potter,PERSON
+Oliver Wood,PERSON
+Seeker,PERSON
+Wood,ORG
+McGonagall,PERSON
+first,ORDINAL
+Potter,PERSON
+Harry,PERSON
+fifty-foot,QUANTITY
+McGonagall,PERSON
+Wood,ORG
+Charlie Weasley,PERSON
+Quidditch,NORP
+Potter,PERSON
+Wood,ORG
+McGonagall,ORG
+Seeker,PERSON
+Wood,ORG
+Harry,PERSON
+Nimbus Two Thousand,ORG
+Seven,CARDINAL
+Dumbledore,PERSON
+first-year,DATE
+last year,DATE
+169,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Slytherin,ORG
+Severus Snape,ORG
+weeks,DATE
+McGonagall,PERSON
+Harry,PERSON
+Potter,PERSON
+Quidditch,NORP
+Harry,PERSON
+Ron,PERSON
+McGonagall,PERSON
+Ron,PERSON
+Seeker,PERSON
+first years,DATE
+House,ORG
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+next week,DATE
+Harry,PERSON
+Wood,ORG
+Fred,PERSON
+George Weasley,PERSON
+Harry,PERSON
+170,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+George,PERSON
+Quidditch Cup,EVENT
+this year,DATE
+Fred,PERSON
+Charlie,PERSON
+this year,DATE
+"Harry, Wood",ORG
+Lee Jordan,PERSON
+one,CARDINAL
+Gregory,ORG
+Smarmy,ORG
+our first week,DATE
+George,PERSON
+Malfoy,PERSON
+Crabbe and Goyle,ORG
+Potter,PERSON
+Harry,PERSON
+Crabbe and Goyle,ORG
+Malfoy,PERSON
+Tonight,TIME
+Wizard,PERSON
+Ron,PERSON
+second,ORDINAL
+Malfoy,PERSON
+Crabbe and Goyle,ORG
+171,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+second,ORDINAL
+second,ORDINAL
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione Granger,PERSON
+Ron,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Ron muttered,PERSON
+night,TIME
+Gryffindor,PERSON
+172,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+the day,DATE
+Harry,PERSON
+Dean,PERSON
+Seamus,GPE
+Neville,GPE
+Ron,PERSON
+Filch,PERSON
+Norris,PERSON
+Harry,PERSON
+today,DATE
+Malfoy’s,PERSON
+Malfoy,PERSON
+Half-past eleven,DATE
+Ron muttered,PERSON
+Gryffindor,PERSON
+Harry,PERSON
+Hermione Granger,PERSON
+Ron,PERSON
+173,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Ron,PERSON
+Gryffindor,GPE
+Slytherin,ORG
+House Cup,EVENT
+McGonagall,PERSON
+Spells,ORG
+tomorrow,DATE
+Gryffindor Tower,FAC
+Ron,PERSON
+Hermione,ORG
+174,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Filch,PERSON
+three,CARDINAL
+Ron,PERSON
+Harry,PERSON
+Norris,PERSON
+Ron,PERSON
+Norris,PERSON
+Neville,GPE
+Neville,GPE
+Harry,PERSON
+Neville,ORG
+about a minute,TIME
+Neville,GPE
+175,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Neville,ORG
+the Bloody Baron’s,ORG
+Ron,PERSON
+Hermione,PRODUCT
+Neville,GPE
+Curse,PERSON
+Ron,PERSON
+the Curse of the Bogies,WORK_OF_ART
+Harry,PERSON
+Harry,PERSON
+Filch,ORG
+Norris,PERSON
+third,ORDINAL
+Harry,PERSON
+Malfoy,PERSON
+Ron,PERSON
+Harry,PERSON
+Malfoy,PERSON
+176,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Filch,PERSON
+Norris,PERSON
+Harry,PERSON
+three,CARDINAL
+Filch,ORG
+Neville,ORG
+Filch,ORG
+Harry,PERSON
+Filch,ORG
+Neville,PERSON
+Ron,PERSON
+RUN,ORG
+Harry,PERSON
+four,CARDINAL
+Filch,PERSON
+one,CARDINAL
+Harry,PERSON
+Harry,PERSON
+Neville,PERSON
+Hermione,ORG
+177,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Gryffindor Tower,FAC
+Ron,PERSON
+Malfoy,PERSON
+Hermione,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+more than a dozen,CARDINAL
+Peeves,ORG
+Peeves,ORG
+Peeves,ORG
+midnight,TIME
+Ickle Firsties,ORG
+Peeves,ORG
+Filch,PERSON
+Peeves,ORG
+Ron,PERSON
+178,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+CHARMS,ORG
+Peeves,ORG
+Ron,PERSON
+Filch,ORG
+Peeves,ORG
+Harry’s,PERSON
+Peeves,ORG
+Filch,PERSON
+Peeves,ORG
+Haaaaaa,PERSON
+Peeves,ORG
+Filch,PERSON
+179,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Neville,GPE
+Neville,PERSON
+Harry’s,PERSON
+last minute,TIME
+Harry,PERSON
+third,ORDINAL
+three,CARDINAL
+Three,CARDINAL
+three,CARDINAL
+three,CARDINAL
+six,CARDINAL
+Harry,PERSON
+Harry,PERSON
+Filch,ORG
+Filch,PERSON
+Harry,PERSON
+180,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+seventh,ORDINAL
+Harry,PERSON
+Neville,ORG
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+181,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,ORG
+Harry,PERSON
+Hagrid,GPE
+Gringotts,PERSON
+Harry,PERSON
+seven hundred,CARDINAL
+thirteen,CARDINAL
+182,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+10,CARDINAL
+Malfoy,PERSON
+Harry,PERSON
+Ron,PERSON
+the next day,DATE
+next morning,TIME
+Harry,PERSON
+Ron,PERSON
+three,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Gringotts,PERSON
+Ron,PERSON
+Harry,PERSON
+about two inches,QUANTITY
+183,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone -J.K.,ORG
+Neville,PERSON
+Hermione,PERSON
+Neville,ORG
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+Malfoy,PERSON
+about a week later,DATE
+the Great Hall,FAC
+six,CARDINAL
+Harry,PERSON
+Harry,PERSON
+first,ORDINAL
+TABLE,ORG
+Nimbus,ORG
+Two Thousand,CARDINAL
+Oliver Wood,PERSON
+tonight,TIME
+Quidditch,PERSON
+"seven 
+o’clock",TIME
+first,ORDINAL
+M. McGonagall,PERSON
+Harry,PERSON
+Ron,PERSON
+184,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Two Thousand,CARDINAL
+Ron,PERSON
+first,ORDINAL
+Crabbe and Goyle,ORG
+Malfoy,PERSON
+Harry,PERSON
+Harry,PERSON
+Potter,GPE
+first years,DATE
+Ron,PERSON
+Nimbus,GPE
+Malfoy,PERSON
+Comet Two Sixty,WORK_OF_ART
+Ron,PERSON
+Harry,PERSON
+Nimbus,ORG
+Weasley,PERSON
+half,CARDINAL
+Malfoy,PERSON
+Ron,PERSON
+Flitwick,PERSON
+Malfoy’s,PERSON
+Malfoy,PERSON
+Flitwick,PERSON
+Harry,PERSON
+McGonagall,PERSON
+Potter,PERSON
+185,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Two Thousand,CARDINAL
+Harry,PERSON
+Malfoy,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Ron,PERSON
+Malfoy’s,PERSON
+Harry,PERSON
+Neville’s Remembrall,FAC
+Harry’s,PERSON
+Harry,PERSON
+n’t,GPE
+Ron,PERSON
+Harry,PERSON
+that day,DATE
+Quidditch,PERSON
+that evening,TIME
+Ron,PERSON
+the Nimbus Two Thousand,ORG
+Ron,PERSON
+Harry’s,PERSON
+Harry,PERSON
+186,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Nimbus,ORG
+Two Thousand,CARDINAL
+seven o’clock,TIME
+Harry,PERSON
+Quidditch,PERSON
+Hundreds,CARDINAL
+three,CARDINAL
+Harry,PERSON
+Muggle,PRODUCT
+fifty feet,QUANTITY
+Wood,ORG
+Harry,PERSON
+The Nimbus Two Thousand,ORG
+Potter,PERSON
+Oliver Wood,PERSON
+Harry,PERSON
+Wood,ORG
+McGonagall,NORP
+this evening,TIME
+three,CARDINAL
+four,CARDINAL
+Wood,ORG
+Quidditch,PERSON
+seven,CARDINAL
+Three,CARDINAL
+187,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Three Chasers,WORK_OF_ART
+Harry,PERSON
+Wood,ORG
+Quaffle,PERSON
+Wood,ORG
+Quaffle,GPE
+Ten,CARDINAL
+The Chasers,WORK_OF_ART
+Quaffle,PERSON
+Harry,PERSON
+six,CARDINAL
+Wood,ORG
+Harry,PERSON
+Three Chasers,ORG
+one,CARDINAL
+Keeper,PERSON
+Harry,PERSON
+three,CARDINAL
+Wood,ORG
+Harry,PERSON
+Bludgers,ORG
+two,CARDINAL
+Bludgers,ORG
+Harry,PERSON
+two,CARDINAL
+Harry,PERSON
+188,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+one,CARDINAL
+Bludgers,ORG
+Harry,PERSON
+Harry,PERSON
+Wood,ORG
+Bludger,PRODUCT
+Bludgers,ORG
+two,CARDINAL
+Weasley,PERSON
+Bludgers,ORG
+Three Chasers,ORG
+Quaffle,GPE
+Keeper,PERSON
+Beaters,ORG
+Bludgers,ORG
+Harry,PERSON
+Wood,ORG
+Bludgers,ORG
+Harry,PERSON
+Never at Hogwarts,WORK_OF_ART
+Seeker,PERSON
+Quaffle,PERSON
+Bludgers,ORG
+189,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Weasleys,PERSON
+Bludgers,ORG
+Bludgers,ORG
+fourth,ORDINAL
+Quaffle,PERSON
+Bludgers,ORG
+Wood,ORG
+the Golden Snitch,FAC
+Seeker,PERSON
+"the Chasers, Beaters,",ORG
+Bludgers,ORG
+’s Seeker,PERSON
+Snitch,ORG
+hundred and fifty,CARDINAL
+Seekers,PERSON
+Snitch,ORG
+"three 
+months",DATE
+Harry,PERSON
+Snitch,ORG
+Wood,ORG
+a few minutes later,TIME
+Harry,PERSON
+Wood,ORG
+Harry,PERSON
+190,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Wood,ORG
+half an hour,TIME
+this year,DATE
+Wood,ORG
+Charlie Weasley,PERSON
+England,GPE
+Quidditch,NORP
+three,CARDINAL
+Harry,PERSON
+two months,DATE
+Privet Drive,FAC
+Halloween,DATE
+Flitwick,PERSON
+Charms,ORG
+Neville,ORG
+Flitwick,PERSON
+Harry’s,PERSON
+Seamus Finnigan,PERSON
+Neville,GPE
+Ron,PERSON
+Hermione Granger,PERSON
+Ron,PERSON
+Hermione,PERSON
+the day,DATE
+Harry’s,PERSON
+Flitwick,PERSON
+191,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Wizard Baruffio,PERSON
+Harry,PERSON
+Seamus,PERSON
+Seamus,GPE
+Harry,PERSON
+Ron,PERSON
+Wingardium Leviosal,WORK_OF_ART
+Harry,PERSON
+It’s Wing-gar-dium Levi-o-sa,WORK_OF_ART
+Ron,PERSON
+"about four 
+feet",QUANTITY
+Flitwick,PERSON
+Granger,PERSON
+Ron,PERSON
+Harry,PERSON
+192,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Someone",ORG
+Harry,PERSON
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+all afternoon,TIME
+"the Great 
+Hall",FAC
+Halloween,DATE
+Harry,PERSON
+Ron,PERSON
+Parvati Patil,ORG
+Lavender,PERSON
+Hermione,PRODUCT
+Ron,PERSON
+the Great Hall,FAC
+Halloween,DATE
+Hermione,PRODUCT
+thousand,CARDINAL
+a thousand,CARDINAL
+Harry,PERSON
+Quirrell,PERSON
+Dumbledore,PERSON
+Troll,ORG
+Dumbledore,ORG
+193,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Houses,ORG
+Percy,PERSON
+Stick,FAC
+first years,DATE
+first years,DATE
+Harry,PERSON
+Ron,PERSON
+Halloween,DATE
+Hufflepuffs,NORP
+Harry,PERSON
+Ron’s,PERSON
+Ron,PERSON
+Hufflepuffs,NORP
+194,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Percy,PERSON
+Snape,ORG
+Harry,PERSON
+Snape,ORG
+third,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Twelve feet,QUANTITY
+195,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+troll,ORG
+Harry,PERSON
+Ron,PERSON
+one,CARDINAL
+Harry,PERSON
+Ron,PERSON
+the Bloody Baron,ORG
+Harry,PERSON
+Harry,PERSON
+Hermione Granger,PERSON
+196,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+troll,ORG
+a few feet,QUANTITY
+Hermione,ORG
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+run\,PERSON
+Harry,PERSON
+Hermione,ORG
+troll berserk,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry’s,PERSON
+one,CARDINAL
+Harry,PERSON
+second,ORDINAL
+197,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Hermione,PERSON
+Ron,PERSON
+first,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+first,ORDINAL
+Harry,PERSON
+three,CARDINAL
+McGonagall,PERSON
+Snape,ORG
+Quirrell,ORG
+"Quirrell 
+
+
+
+Page",ORG
+198,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+one,CARDINAL
+McGonagall,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+fifty,CARDINAL
+Gryffindor,PERSON
+Harry’s,PERSON
+McGonagall,PERSON
+Harry,PERSON
+Ron,PERSON
+Snape,PRODUCT
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+McGonagall,PERSON
+Granger,PERSON
+Ron,PERSON
+Hermione Granger,PERSON
+Harry,PERSON
+Ron,PERSON
+199,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+McGonagall,PERSON
+three,CARDINAL
+Granger,PERSON
+Harry,PERSON
+Hermione,PERSON
+Snape,ORG
+Granger,PERSON
+five,CARDINAL
+McGonagall,PERSON
+Gryffindor Tower,FAC
+Houses,ORG
+McGonagall,PERSON
+Harry,PERSON
+Ron,PERSON
+"first 
+years",DATE
+five,CARDINAL
+Dumbledore,PERSON
+two,CARDINAL
+more than ten,CARDINAL
+Ron,PERSON
+Five,CARDINAL
+200,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Hermione Granger,PERSON
+twelve-foot,QUANTITY
+one,CARDINAL
+201,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+November,DATE
+Every morning,TIME
+Hagrid,GPE
+Quidditch,PERSON
+Saturday,DATE
+Harry,PERSON
+first,ORDINAL
+weeks,DATE
+Gryffindor,PERSON
+second,ORDINAL
+House Championship,FAC
+Harry,PERSON
+Wood,ORG
+Harry,PERSON
+Seeker,PERSON
+Harry,PERSON
+202,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hermione,ORG
+Quidditch Through,ORG
+Harry,PERSON
+seven hundred,CARDINAL
+Quidditch,NORP
+World Cup,EVENT
+1473,DATE
+Quidditch,NORP
+Quidditch,PERSON
+months later,DATE
+the Sahara Desert,LOC
+Harry,PERSON
+Ron,PERSON
+The day,DATE
+Harry’s,PERSON
+Quidditch,NORP
+three,CARDINAL
+Snape,ORG
+Harry,PERSON
+Snape,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Snape,ORG
+Potter,PERSON
+Quidditch Through,ORG
+Harry,PERSON
+203,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,PRODUCT
+Five,CARDINAL
+Harry,PERSON
+Snape,ORG
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+"Ron’s 
+",PERSON
+Harry,PERSON
+Quidditch Through,WORK_OF_ART
+tomorrow,DATE
+Snape,LOC
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+Snape,ORG
+Filch,PERSON
+One,CARDINAL
+Filch,PERSON
+Snape,PRODUCT
+204,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+three,CARDINAL
+Harry,PERSON
+Snape,ORG
+Harry,PERSON
+Harry,PERSON
+Snape,ORG
+Gryffindor,GPE
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+three,CARDINAL
+Halloween,DATE
+Hermione,ORG
+Dumbledore,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+205,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,LOC
+Harry,PERSON
+Neville,PERSON
+Harry,PERSON
+first,ORDINAL
+Quidditch,NORP
+a few hours,TIME
+Snape,ORG
+Harry,PERSON
+Great Hall,FAC
+Quidditch,NORP
+Hermione,ORG
+Harry,PERSON
+an hour,TIME
+Harry,PERSON
+Seamus,GPE
+Finnigan,GPE
+Seamus,GPE
+Harry,PERSON
+Seamus,GPE
+eleven o’clock,TIME
+Quidditch,NORP
+206,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Hermione,PERSON
+Neville,GPE
+Seamus,GPE
+Dean,PERSON
+Harry,PERSON
+one,CARDINAL
+Potter,PERSON
+Dean,PERSON
+Harry,PERSON
+Quidditch,PERSON
+Slytherin,ORG
+Angelina Johnson,PERSON
+Fred Weasley,PERSON
+George.,PERSON
+Oliver’s,PERSON
+Fred,PERSON
+Harry,PERSON
+last year,DATE
+two,CARDINAL
+Wood,ORG
+years,DATE
+Harry,PERSON
+Fred,PERSON
+George,PERSON
+207,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Madam Hooch,PERSON
+two,CARDINAL
+Harry,PERSON
+Slytherin Captain,ORG
+Marcus Flint,ORG
+a fifth year,DATE
+Harry,PERSON
+Flint,GPE
+Potter,PERSON
+Harry,PERSON
+Nimbus Two Thousand,ORG
+Madam Hooch,PERSON
+Fifteen,CARDINAL
+Quaffle,GPE
+"Angelina 
+Johnson of Gryffindor",ORG
+Chaser,WORK_OF_ART
+JORDAN,GPE
+Weasley,PERSON
+Lee Jordan,PERSON
+McGonagall,PERSON
+Alicia Spinnet,PERSON
+Oliver Wood’s,PERSON
+"last 
+year",DATE
+Johnson,PERSON
+Slytherins,PRODUCT
+Slytherin Captain,ORG
+Marcus Flint,ORG
+Quaffle,GPE
+Flint,GPE
+208,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+"Gryffindor Keeper 
+Wood",PERSON
+Gryffindors,ORG
+Quaffle,GPE
+Katie Bell,PERSON
+Flint,GPE
+Bludger,PERSON
+Slytherins,LOC
+Adrian Pucey,ORG
+second,ORDINAL
+Bludger,PRODUCT
+Fred,PERSON
+George Weasley,PERSON
+the Gryffindor Beater,ORG
+Johnson,PERSON
+Quaffle,GPE
+Bludger,PERSON
+Angelina,GPE
+Keeper Bletchley,PERSON
+Slytherins,LOC
+Hagrid,GPE
+Ron,PERSON
+Hermione,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Snitch,ORG
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+209,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Way",ORG
+Harry,PERSON
+Snitch,ORG
+Wood,ORG
+Wood,ORG
+Angelina,GPE
+Harry,PERSON
+Snitch,ORG
+one,CARDINAL
+Bludger,PERSON
+Harry,PERSON
+Fred Weasley,PERSON
+Harry,PERSON
+Bludger,PERSON
+Marcus Flint,FAC
+Lee Jordan,PERSON
+Chaser Pucey,WORK_OF_ART
+two,CARDINAL
+Bludgers,ORG
+two,CARDINAL
+Chaser Bell,PERSON
+Snitch,ORG
+Adrian Pucey,LOC
+Quaffle,GPE
+Harry,PERSON
+Snitch,ORG
+210,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Higgs,NORP
+Gryffindors,ORG
+Marcus Flint,ORG
+Harry,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Gryffindors,ORG
+Madam Hooch,PERSON
+Flint,GPE
+Gryffindor,GPE
+the Golden Snitch,ORG
+Dean Thomas,PERSON
+ref,ORG
+Dean,PERSON
+Ron,PERSON
+Dean,PERSON
+Dean,PERSON
+Ron,PERSON
+Hagrid,GPE
+Dean,PERSON
+Harry,PERSON
+Lee Jordan,PERSON
+Jordan,GPE
+McGonagall,PERSON
+211,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Jordan,PERSON
+Gryffindor,GPE
+Harry,PERSON
+Bludger,PRODUCT
+second,ORDINAL
+Nimbus,ORG
+Two Thousands,CARDINAL
+half,CARDINAL
+Wood,ORG
+Lee,PERSON
+Flint,GPE
+Quaffle,GPE
+Bell,ORG
+Bludger,PRODUCT
+Slytherins,LOC
+Harry,PERSON
+212,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry’s,PERSON
+Harry,PERSON
+only one,CARDINAL
+Flint,GPE
+Seamus,GPE
+Hagrid,GPE
+Nimbus,ORG
+Hermione,ORG
+Hagrid,GPE
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+213,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+one,CARDINAL
+Marcus Flint,ORG
+five,CARDINAL
+Hermione,PERSON
+Ron,PERSON
+Snape,ORG
+Quirrell,PERSON
+Reaching Snape,PERSON
+perhaps thirty seconds,TIME
+Snape,ORG
+Snape,ORG
+Harry,PERSON
+Neville,WORK_OF_ART
+Ron,PERSON
+Neville,ORG
+Hagrid,GPE
+the last five minutes,TIME
+Harry,PERSON
+214,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snitch,ORG
+Flint,GPE
+twenty minutes later,TIME
+Harry,PERSON
+"Lee 
+Jordan",PERSON
+one hundred and seventy,CARDINAL
+sixty,CARDINAL
+Hagrid,GPE
+Ron,PERSON
+Snape,ORG
+Ron,PERSON
+Hagrid,GPE
+Snape,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+Hagrid,GPE
+three,CARDINAL
+Halloween,DATE
+Hagrid,GPE
+Fluffy,ORG
+215,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Greek,NORP
+Dumbledore,PERSON
+Harry,PERSON
+Hagrid,GPE
+Snape,ORG
+Hagrid,GPE
+Snape’s,ORG
+Harry,PERSON
+afternoon,TIME
+Snape,LOC
+Hagrid,GPE
+Snape,ORG
+yeh,PERSON
+Hagrid,GPE
+Harry’s,PERSON
+Snape,ORG
+three,CARDINAL
+Harry,PERSON
+"Nicolas 
+Flamel",ORG
+Hagrid,GPE
+216,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+"THE MIRROR OF ERISED 
+
+",ORG
+One morning,TIME
+December,DATE
+several feet,QUANTITY
+Weasley,PERSON
+Quirrell,ORG
+Hagrid,GPE
+the holidays,DATE
+the Great Hall,FAC
+Draco Malfoy,PERSON
+one,CARDINAL
+217,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Christmas,DATE
+Harry,PERSON
+Goyle,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Quidditch,NORP
+Slytherins,ORG
+Harry,PERSON
+Seeker,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Harry,PERSON
+"Privet 
+Drive",FAC
+Christmas,DATE
+McGonagall,PERSON
+the week,DATE
+the holidays,DATE
+Harry,PERSON
+Christmas,DATE
+Ron,PERSON
+Weasley,PERSON
+Romania,GPE
+Charlie,PERSON
+Two,CARDINAL
+Hagrid,GPE
+Hagrid,GPE
+Ron,PERSON
+Ron,PERSON
+218,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+Weasley,PERSON
+Hogwarts,PERSON
+Hagrid,GPE
+Ron,PERSON
+Malfoy,PERSON
+Snape,LOC
+Ron,PERSON
+Malfoy’s,PERSON
+Hagrid,GPE
+Malfoy,PERSON
+Hogwarts,PERSON
+Hagrid,GPE
+Snape,ORG
+Five,CARDINAL
+Gryffindor,GPE
+Weasley,GPE
+"Malfoy, Crabbe",ORG
+Goyle,PERSON
+Ron,PERSON
+Malfoy’s,PERSON
+one,CARDINAL
+Harry,PERSON
+Malfoy and Snape,WORK_OF_ART
+Hagrid,GPE
+Great Hall,FAC
+three,CARDINAL
+Hagrid,GPE
+the Great Hall,FAC
+McGonagall,PERSON
+Flitwick,PERSON
+Christmas,DATE
+219,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Christmas,DATE
+hundreds,CARDINAL
+Hagrid,GPE
+Hermione,PERSON
+"Harry, Ron",PERSON
+half an hour,TIME
+Ron,PERSON
+Flitwick,PERSON
+Hagrid,GPE
+Harry,PERSON
+Nicolas Flamel,PERSON
+Hagrid,GPE
+Nicolas Flamel,PERSON
+Hermione,PERSON
+Harry,PERSON
+hundreds,CARDINAL
+220,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Ron,PERSON
+Hagrid,GPE
+Flamel,ORG
+Hagrid,GPE
+Snape,ORG
+Flamel,ORG
+Great Wizards,ORG
+the Twentieth Century,ORG
+"Notable 
+Magical Names of Our Time",ORG
+Important Modern Magical Discoveries,ORG
+Wizardry,LOC
+"tens of 
+thousands",CARDINAL
+thousands,CARDINAL
+hundreds,CARDINAL
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Flamel,PERSON
+one,CARDINAL
+Dark Magic,ORG
+Hogwarts,PERSON
+Defense Against the Dark Arts,ORG
+Harry,PERSON
+221,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,PRODUCT
+Madam,PERSON
+Flamel,PERSON
+Snape,PRODUCT
+Harry,PERSON
+two,CARDINAL
+two weeks,DATE
+Five minutes later,TIME
+Ron,PERSON
+Hermione,PERSON
+Hermione,PERSON
+Flamel,PERSON
+Ron,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Flamel,ORG
+the hour,TIME
+English,LANGUAGE
+222,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+Ron,PERSON
+Harry,PERSON
+Muggle,PRODUCT
+Ron’s,PERSON
+Ron,PERSON
+Harry,PERSON
+Seamus Finnigan,PERSON
+Christmas Eve,DATE
+Harry,PERSON
+the next day,DATE
+the morning,TIME
+first,ORDINAL
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+223,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+second,ORDINAL
+Christmas,DATE
+Uncle Vernon,PERSON
+Aunt Petunia,LOC
+fifty-pence,MONEY
+Harry,PERSON
+Ron,PERSON
+fifty pence,MONEY
+Harry,PERSON
+Ron,PERSON
+Hagrid,GPE
+Ron,PERSON
+Weasley,GPE
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Chocolate Frogs,FAC
+224,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+one,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Harry,PERSON
+It’s an Invisibility Cloak,WORK_OF_ART
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+225,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+"Ron 
+",PERSON
+one,CARDINAL
+Anuthinq,LOC
+Harry,PERSON
+Fred,PERSON
+"George 
+Weasley",PERSON
+Harry,PERSON
+Harry’s,PERSON
+Weasley,GPE
+George,PERSON
+one,CARDINAL
+F,PRODUCT
+Harry’s,PERSON
+Fred,PERSON
+Harry’s,PERSON
+Ron,PERSON
+"George 
+demanded",PERSON
+226,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+George,PERSON
+Gred,PERSON
+Forge,PERSON
+Percy Weasley,PERSON
+Fred,ORG
+Percy,PERSON
+Harry,PERSON
+n’t,GPE
+Percy,PERSON
+today,DATE
+George,PERSON
+Christmas,DATE
+Percy,PERSON
+Harry,PERSON
+Christmas,DATE
+A hundred,CARDINAL
+every few feet,QUANTITY
+Dursleys,PERSON
+Harry,PERSON
+Fred,PERSON
+227,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+the High Table,ORG
+Dumbledore,PERSON
+Flitwick,PERSON
+Christmas,DATE
+turkey,GPE
+Harry,PERSON
+Hagrid,GPE
+McGonagall,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Norris’s Christmas,ORG
+Harry,PERSON
+Weasleys,PERSON
+afternoon,TIME
+Gryffindor,PERSON
+Harry,PERSON
+Ron,PERSON
+Percy,PERSON
+Christmas,DATE
+Percy,PERSON
+Fred,PERSON
+George,PERSON
+Gryffindor Tower,FAC
+Harry’s,PERSON
+Christmas day,DATE
+228,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+all day,DATE
+the Invisibility Cloak,ORG
+Ron,PERSON
+turkey,GPE
+four,CARDINAL
+Harry,PERSON
+Harry,PERSON
+Hogwarts,PERSON
+Filch,ORG
+Ron,PERSON
+Harry,PERSON
+first,ORDINAL
+Harry,PERSON
+229,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Flamel,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+One,CARDINAL
+Harry’s,PERSON
+Harry,PERSON
+one,CARDINAL
+230,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Filch,PERSON
+Filch,ORG
+Harry,PERSON
+Filch,ORG
+five,CARDINAL
+night,TIME
+Harry,PERSON
+Filch,PERSON
+Snape,ORG
+The Restricted Section,WORK_OF_ART
+Harry,PERSON
+Filch,ORG
+Snape,PRODUCT
+Harry,PERSON
+231,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+a few seconds,TIME
+two,CARDINAL
+Filch,ORG
+Snape,ORG
+Harry,PERSON
+ten,CARDINAL
+Harry,PERSON
+232,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry’s,PERSON
+Harry,PERSON
+first,ORDINAL
+Potters,ORG
+Harry,PERSON
+half,CARDINAL
+half,CARDINAL
+233,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+tonight,TIME
+Ron,PERSON
+Weasleys,PERSON
+Ron,PERSON
+this summer,DATE
+Harry,PERSON
+tonight,TIME
+Flamel,ORG
+three,CARDINAL
+Snape,ORG
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+the next night,TIME
+Harry’s,PERSON
+nearly an hour,TIME
+Ron,PERSON
+Harry,PERSON
+234,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Ron,PERSON
+235,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Bill,PERSON
+the House Cup,EVENT
+the Quidditch Cup,EVENT
+Ron,PERSON
+Harry,PERSON
+the Quidditch Cup,EVENT
+Ron,PERSON
+Norris,PERSON
+Ron,PERSON
+Harry,PERSON
+Filch,PERSON
+Ron,PERSON
+Harry,PERSON
+the next morning,TIME
+236,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Hagrid,GPE
+Harry,PERSON
+tonight,TIME
+Filch,ORG
+Snape,ORG
+Norris,PERSON
+Hermione,ORG
+Harry,PERSON
+Harry,PERSON
+one,CARDINAL
+Ron,PERSON
+third,ORDINAL
+Harry,PERSON
+all night,TIME
+237,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Harry,PERSON
+one,CARDINAL
+Albus Dumbledore,ORG
+Harry,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+hundreds,CARDINAL
+the Mirror of Erised,ORG
+Ron,PERSON
+Head Boy,PERSON
+Dumbledore,PERSON
+"the 
+Mirror of Erised",ORG
+Harry,PERSON
+the Mirror of Erised,ORG
+238,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Dumbledore,ORG
+Ronald Weasley,PERSON
+tomorrow,DATE
+Harry,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+one,CARDINAL
+Harry,PERSON
+Dumbledore,PERSON
+Christmas,DATE
+239,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry that Dumbledore,WORK_OF_ART
+240,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+Harry,PERSON
+the Mirror of Erised,ORG
+"the 
+Christmas holidays",DATE
+the Invisibility Cloak,FAC
+Harry,PERSON
+Dumbledore,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+three nights,TIME
+Filch,PERSON
+Nicolas Flamel,PERSON
+241,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+Flamel,PERSON
+Harry,PERSON
+ten minutes,TIME
+Harry,PERSON
+two,CARDINAL
+Quidditch,PERSON
+Weasleys,PERSON
+Harry,PERSON
+Wood,ORG
+Hufflepuff,ORG
+Slytherin,ORG
+House Championship,FAC
+first,ORDINAL
+seven years,DATE
+Harry,PERSON
+one,CARDINAL
+Wood,ORG
+Weasleys,PERSON
+Snape,ORG
+Gryffindor,GPE
+George Weasley,PERSON
+Snape,ORG
+Quidditch,NORP
+Slytherin,NORP
+242,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K.,ORG
+George,PERSON
+Wood,ORG
+Snape,ORG
+Harry,PERSON
+Snape,LOC
+Quidditch,PERSON
+Harry,PERSON
+Gryffindor,PERSON
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+two,CARDINAL
+Snape,ORG
+Quidditch,NORP
+Hermione,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+Seeker,PERSON
+Gryffindor,PERSON
+243,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Neville,GPE
+the Leg-Locker Curse,FAC
+Gryffindor Tower,FAC
+Hermione,PERSON
+Neville,ORG
+Harry,PERSON
+Ron,PERSON
+Malfoy,PERSON
+Neville,ORG
+McGonagall,PERSON
+Neville,GPE
+Neville,GPE
+Ron,PERSON
+Gryffindor,GPE
+Malfoy’s,PERSON
+Neville,GPE
+Harry,PERSON
+Hermione,PERSON
+Christmas,DATE
+Neville,GPE
+244,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+twelve,CARDINAL
+Malfoy,PERSON
+Harry,PERSON
+Gryffindor,PERSON
+Malfoy,PERSON
+Slytherin,WORK_OF_ART
+Neville,ORG
+Harry,PERSON
+Neville,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+first,ORDINAL
+Ron,PERSON
+Dumbledore,PERSON
+Grindelwald,PERSON
+1945,DATE
+twelve,CARDINAL
+Nicolas,PERSON
+first,ORDINAL
+Harry,PERSON
+Ron,PERSON
+weeks ago,DATE
+245,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Light,WORK_OF_ART
+Ron,PERSON
+Hermione,PERSON
+Ron grumpily,PERSON
+Nicolas Flamel,PERSON
+Harry,PERSON
+Ron,PERSON
+two,CARDINAL
+Harry,PERSON
+Ron,PERSON
+the Sorcerer’s Stone,ORG
+Stone,ORG
+the Sorcerer’s Stone,ORG
+the centuries,DATE
+Stone,ORG
+Nicolas Flamel,PERSON
+Flamel,PERSON
+six hundred and sixty-fifth,QUANTITY
+last year,DATE
+Devon,PERSON
+Perenelle,PERSON
+six hundred and fifty-eight,CARDINAL
+246,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+"Flamel’s 
+Sorcerer’s Stone",ORG
+Dumbledore,PERSON
+Stone,ORG
+Gringotts,PERSON
+Harry,PERSON
+Snape,ORG
+Flamel,ORG
+Wizardry,ORG
+Ron,PERSON
+six hundred and sixty-five,QUANTITY
+Defense Against the Dark Arts,ORG
+Harry,PERSON
+Ron,PERSON
+Sorcerer’s Stone,ORG
+Ron,PERSON
+Quidditch,NORP
+Harry,PERSON
+Snape,LOC
+Ron,PERSON
+Hermione,ORG
+n’t,GPE
+Slytherins,ORG
+Snape,ORG
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+Slytherin,ORG
+"the House 
+Championship",ORG
+seven years,DATE
+247,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Snape,PRODUCT
+Snape,PRODUCT
+weekly,DATE
+Snape,ORG
+Harry,PERSON
+Sorcerer,ORG
+Harry,PERSON
+Snape,ORG
+Harry,PERSON
+the next afternoon,TIME
+Ron,PERSON
+Hermione,ORG
+Harry,PERSON
+Wood,ORG
+Nimbus Two Thousand,ORG
+Ron,PERSON
+Hermione,ORG
+Neville,GPE
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Malfoy,PERSON
+Neville,GPE
+Snape,ORG
+Harry,PERSON
+Mortis,PERSON
+Ron,PERSON
+Ron,PERSON
+Wood,ORG
+Harry,PERSON
+Potter,PERSON
+248,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,ORG
+Hufflepuff,ORG
+Fred Weasley,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+Dumbledore,WORK_OF_ART
+Harry,PERSON
+Snape,ORG
+Dumbledore,PERSON
+Snape,ORG
+Ron,PERSON
+Ron,PERSON
+Malfoy,PERSON
+Weasley,PERSON
+Malfoy,PERSON
+Crabbe and Goyle,ORG
+Potter,PERSON
+Weasley,PERSON
+Ron,PERSON
+Snape,ORG
+Hufflepuff,ORG
+George Weasley,PERSON
+Bludger,PRODUCT
+Harry,PERSON
+249,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+"a few minutes 
+later",TIME
+Snape,ORG
+Hufflepuff,ORG
+’s Potter,PERSON
+Weasleys,PERSON
+Longbottom,GPE
+Malfoy,PERSON
+twelve,CARDINAL
+Malfoy,PERSON
+"Malfoy, Crabbe",ORG
+Goyle,PERSON
+Ron,PERSON
+Neville,GPE
+Longbottom,GPE
+Weasley,PERSON
+Ron,PERSON
+Harry,PERSON
+Malfoy,PERSON
+one,CARDINAL
+Hermione,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Weasley,GPE
+Potter,PERSON
+Malfoy,PERSON
+250,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Malfoy,PERSON
+Ron,PERSON
+Neville,ORG
+Harry,PERSON
+Harry,PERSON
+Snape,ORG
+Malfoy,PERSON
+Ron,PERSON
+Neville,GPE
+Goyle,GPE
+Snape,ORG
+the next second,TIME
+Harry,PERSON
+Snitch,ORG
+Snitch,ORG
+Ron,PERSON
+Ron,PERSON
+Harry’s,PERSON
+Hermione,PRODUCT
+Parvati Patil,ORG
+Harry,PERSON
+five minutes,TIME
+Snape,LOC
+Harry,PERSON
+Dumbledore,ORG
+Dumbledore,ORG
+Harry,PERSON
+251,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Snape,PRODUCT
+"Jc Jc 
+
+
+
+Harry",PERSON
+Nimbus Two Thousand,ORG
+evening,TIME
+last hour,TIME
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+Hogwarts,PERSON
+Snape,LOC
+Snape,LOC
+Harry’s,PERSON
+Snape,ORG
+Harry,PERSON
+Nimbus,ORG
+Two Thousand,CARDINAL
+Snape,PRODUCT
+Snape,ORG
+252,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,ORG
+Quirrell,PERSON
+Harry,PERSON
+Harry,PERSON
+Snape,ORG
+the Sorcerer’s Stone,ORG
+Harry,PERSON
+Quirrell,ORG
+Hagrid,GPE
+Severus,PERSON
+Quirrell,ORG
+Snape,ORG
+Harry,PERSON
+Snape,LOC
+253,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Quirrell,ORG
+"Jc Jc 
+
+
+
+",PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Neville,ORG
+Crabbe and Goyle,ORG
+Madam Pomfrey,PERSON
+Slytherin,NORP
+Fred,PERSON
+George,PERSON
+Harry,PERSON
+Peeves,ORG
+the Sorcerer’s Stone,ORG
+Snape,ORG
+Quirrell,ORG
+Fluffy,ORG
+Quirrell,ORG
+Fluffy,ORG
+Quirrell,ORG
+254,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,ORG
+Stone,ORG
+Quirrell,ORG
+Snape,LOC
+Hermione,PERSON
+next Tuesday,DATE
+Ron,PERSON
+255,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+NORBERT,ORG
+NORWEGIAN,NORP
+the weeks,DATE
+third,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Fluffy,ORG
+Stone,ORG
+Harry,PERSON
+these days,DATE
+Ron,PERSON
+Quirrell,ORG
+Sorcerer’s Stone,ORG
+Harry,PERSON
+Ron,PERSON
+256,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+“Hermione",ORG
+Ten weeks,DATE
+second,ORDINAL
+Nicolas Flamel,PERSON
+six hundred years old,DATE
+Ron,PERSON
+"the second 
+year",DATE
+a month ago,DATE
+Hermione,ORG
+Christmas,DATE
+Hermione,ORG
+twelve,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+"one 
+afternoon",TIME
+first,ORDINAL
+months,DATE
+summer,DATE
+Harry,PERSON
+One Thousand,CARDINAL
+Fungi,PERSON
+Ron,PERSON
+Hagrid,GPE
+257,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Jus,PERSON
+Nicolas Flamel,PERSON
+yeh,PERSON
+ages ago,DATE
+Ron,PERSON
+Hagrid,GPE
+Don,PERSON
+yeh,PERSON
+Harry,PERSON
+Stone,ORG
+Fluffy,ORG
+SHHHH,ORG
+Hagrid,GPE
+don,PERSON
+Harry,PERSON
+Hagrid,GPE
+Stone,ORG
+Ron,PERSON
+"a 
+minute later",TIME
+258,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Dragon Species of,ORG
+Great,GPE
+Britain,GPE
+Ireland,GPE
+Egg,GPE
+Hagrid,GPE
+first,ORDINAL
+Harry,PERSON
+Ron,PERSON
+1709,DATE
+Charlie’s,PERSON
+Romania,GPE
+Britain,GPE
+Harry,PERSON
+Ron,PERSON
+"Common Welsh 
+Green",PERSON
+Hebridean Blacks,PERSON
+The Ministry of Magic,ORG
+Hagrid,GPE
+Hermione,PERSON
+an hour later,TIME
+Hagrid,GPE
+259,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+bush,PERSON
+Hagrid,GPE
+two,CARDINAL
+Stone,ORG
+Gringotts,PERSON
+yeh’ve,ORG
+Hagrid,GPE
+Hermione,ORG
+Hagrid,GPE
+Dumbledore,PERSON
+Hagrid,GPE
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Fluffy,ORG
+Sprout,PERSON
+Flitwick,PERSON
+McGonagall,PERSON
+Quirrell,PERSON
+Dumbledore,PERSON
+Snape,PRODUCT
+260,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Snape,ORG
+Stone,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Snape,ORG
+Stone,ORG
+Quirrell,ORG
+Fluffy,ORG
+Hagrid,GPE
+Harry,PERSON
+one,CARDINAL
+Dumbledore,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Hagrid,GPE
+Ron,PERSON
+261,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Hermione,PERSON
+Hagrid,GPE
+Dragon Breeding for Pleasure and Profit,ORG
+every half hour,TIME
+Norwegian,NORP
+Hermione,PERSON
+n’t,GPE
+Hagrid,GPE
+Hagrid,GPE
+Hagrid,GPE
+Ron,PERSON
+as evening,TIME
+evening,TIME
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+262,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+one,CARDINAL
+Hedwig,NORP
+Harry,PERSON
+Hagrid,GPE
+only two,CARDINAL
+Ron,PERSON
+Hermione,ORG
+Hagrid,GPE
+Harry,PERSON
+Malfoy,PERSON
+only a few feet,QUANTITY
+Harry,PERSON
+Malfoy,PERSON
+Ron,PERSON
+Hermione,PERSON
+Hermione,ORG
+Hagrid,GPE
+two,CARDINAL
+morning,TIME
+three,CARDINAL
+263,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Hermione,PERSON
+Norwegian,NORP
+Hagrid,GPE
+Harry,PERSON
+Malfoy,PERSON
+Malfoy,PERSON
+the next week,DATE
+Harry,PERSON
+Ron,PERSON
+Hermione,PRODUCT
+Hagrid,GPE
+Harry,PERSON
+264,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+three,CARDINAL
+just a week,DATE
+Hagrid,GPE
+Norbert,PERSON
+Hagrid,GPE
+Norbert,PERSON
+Norbert,PERSON
+Ron muttered,PERSON
+Harry’s,PERSON
+Hagrid,GPE
+Harry,PERSON
+two weeks,DATE
+Norbert,PERSON
+Dumbledore,PERSON
+Hagrid,GPE
+n’t,GPE
+Harry,PERSON
+Ron,PERSON
+Charlie,WORK_OF_ART
+Ron,PERSON
+I’m Ron,PERSON
+Charlie,PERSON
+Romania,GPE
+Norbert,PERSON
+Charlie,PERSON
+Ron,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Charlie,PERSON
+265,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+The following week,DATE
+Wednesday,DATE
+night,TIME
+Hermione,PERSON
+Harry,PERSON
+midnight,TIME
+Ron,PERSON
+Harry’s Invisibility Cloak,ORG
+Hagrid,GPE
+Norbert,PERSON
+a week,DATE
+Hagrid,GPE
+It’s Hedwig,WORK_OF_ART
+Harry,PERSON
+Charlie,PERSON
+three,CARDINAL
+the Norwegian Ridgeback,GPE
+next week,DATE
+Ridgeback,PERSON
+midnight,TIME
+Saturday,DATE
+266,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Love,WORK_OF_ART
+Charlie,PERSON
+the Invisibility Cloak,FAC
+Harry,PERSON
+two,CARDINAL
+Norbert,PERSON
+the last week,DATE
+two,CARDINAL
+Norbert,PERSON
+Malfoy,PERSON
+the next morning,TIME
+Ron’s,PERSON
+Pomfrey,PERSON
+the afternoon,TIME
+Norbert,PERSON
+Harry,PERSON
+Hermione,PERSON
+the end of the day,DATE
+Ron,PERSON
+Malfoy,PERSON
+Madam,PERSON
+one,CARDINAL
+Quidditch,NORP
+Harry,PERSON
+Hermione,PERSON
+Ron,PERSON
+267,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+midnight,TIME
+Saturday,DATE
+Ron,PERSON
+Midnight on,WORK_OF_ART
+Saturday,DATE
+Charlie,PERSON
+Malfoy,PERSON
+Norbert,GPE
+Harry,PERSON
+Hermione,ORG
+Pomfrey,PERSON
+Ron,PERSON
+Harry,PERSON
+Charlie,PERSON
+Norbert,GPE
+the Invisibility Cloak,ORG
+Malfoy,PERSON
+Fang,PERSON
+Hagrid,GPE
+Norbert’s,PERSON
+Charlie,PERSON
+Norbert,PERSON
+Aargh,ORG
+Harry,PERSON
+Hermione,PERSON
+Saturday,DATE
+268,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Norbert,PERSON
+night,TIME
+Hagrid,GPE
+Hagrid,GPE
+Norbert,PERSON
+Hagrid,GPE
+Harry,PERSON
+Norbert,PERSON
+Hagrid,GPE
+Harry,PERSON
+Mommy,PERSON
+Norbert,PERSON
+one,CARDINAL
+Harry’s,PERSON
+Harry,PERSON
+two,CARDINAL
+ten feet,QUANTITY
+269,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+McGonagall,PERSON
+Malfoy,PERSON
+twenty,CARDINAL
+Harry Potter’s,PERSON
+Malfoy,PERSON
+Malfoy’s,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Norbert,PERSON
+About ten minutes later,TIME
+four,CARDINAL
+Charlie,PERSON
+Harry,PERSON
+Norbert,PERSON
+Norbert,PERSON
+Harry,PERSON
+Norbert,PERSON
+270,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Norbert,PERSON
+Malfoy,PERSON
+Filch,ORG
+the Invisibility Cloak,ORG
+271,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Filch,PERSON
+McGonagall,PERSON
+first,ORDINAL
+Harry,PERSON
+McGonagall,PERSON
+Astronomy Tower,FAC
+Norbert,PERSON
+the Invisibility Cloak,ORG
+Harry,PERSON
+McGonagall,PERSON
+Neville,ORG
+272,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+",ORG
+Harry,PERSON
+Neville,GPE
+two,CARDINAL
+Malfoy,PERSON
+Harry,PERSON
+Neville,ORG
+McGonagall,PERSON
+Norbert,PERSON
+three,CARDINAL
+Filch,PERSON
+the Astronomy Tower,FAC
+first,ORDINAL
+Hermione,PERSON
+McGonagall,PERSON
+Draco Malfoy,PRODUCT
+Longbottom,GPE
+Harry,PERSON
+Neville,ORG
+Neville,GPE
+Neville,GPE
+McGonagall,PERSON
+Four,CARDINAL
+one night,TIME
+Granger,PERSON
+Potter,PERSON
+three,CARDINAL
+Longbottom,GPE
+Page,ORG
+273,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+these days,DATE
+fifty,CARDINAL
+Fifty,CARDINAL
+Harry,PERSON
+Quidditch,NORP
+Fifty,CARDINAL
+McGonagall,PERSON
+Potter,PERSON
+A hundred and fifty,CARDINAL
+one night,TIME
+Gryffindor,PERSON
+the House Cup,EVENT
+Harry,PERSON
+Harry,PERSON
+all night,TIME
+Neville,GPE
+Harry,PERSON
+Neville,GPE
+first,ORDINAL
+Gryffindors,ORG
+House,ORG
+the next day,DATE
+a hundred and fifty,CARDINAL
+yesterday,DATE
+Harry Potter,PERSON
+Harry Potter,PERSON
+two,CARDINAL
+Quidditch,NORP
+first years,DATE
+274,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+a few weeks,DATE
+George,PERSON
+a hundred and fifty,CARDINAL
+one,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Wood,ORG
+Quidditch,PERSON
+Quidditch,PERSON
+Harry,PERSON
+Seeker,PERSON
+Neville,GPE
+Harry,PERSON
+275,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+about a week,DATE
+Harry’s,PERSON
+one afternoon,TIME
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+second,ORDINAL
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+twelve,CARDINAL
+"Sorcerer’s 
+Stones",ORG
+Snape,ORG
+276,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Snape,ORG
+Quirrell,ORG
+Harry,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Snape,ORG
+Ron,PERSON
+Quirrell’s,ORG
+Anti-Dark Force,ORG
+Fluffy,ORG
+Hermione,PERSON
+Hagrid,GPE
+Ron,PERSON
+thousands,CARDINAL
+three,CARDINAL
+Harry,PERSON
+Ron’s,PERSON
+Hermione,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+ages ago,DATE
+Harry,PERSON
+Quirrell,ORG
+Snape,ORG
+Halloween,DATE
+third,ORDINAL
+Dumbledore,PERSON
+Filch,ORG
+Snape,ORG
+Stone,ORG
+Ron,PERSON
+n’t,GPE
+277,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Jupiter,LOC
+Harry,PERSON
+Neville,GPE
+"eleven o’clock 
+tonight",TIME
+Filch,PERSON
+M. McGonagall,PERSON
+Harry,PERSON
+Harry,PERSON
+eleven o’clock that night,TIME
+Ron,PERSON
+Neville,GPE
+Filch,PERSON
+Malfoy,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Filch,PERSON
+278,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+a few days,DATE
+Harry,PERSON
+Filch,ORG
+Harry,PERSON
+Hagrid,GPE
+Filch,PERSON
+Harry,PERSON
+Hagrid,GPE
+Filch,ORG
+Neville,GPE
+Malfoy,PERSON
+night,TIME
+Neville,ORG
+Harry’s,PERSON
+Filch,PERSON
+279,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Fang,PERSON
+half an hour,TIME
+Harry,PERSON
+Hagrid,GPE
+Filch,PERSON
+Hagrid,GPE
+Filch,PERSON
+Snot,PERSON
+Yeh’ve,ORG
+Filch,PERSON
+Malfoy,PERSON
+Hagrid,GPE
+Harry,PERSON
+Yeh,PERSON
+Hogwarts,PERSON
+Hagrid,GPE
+Yeh’ve,ORG
+Hogwarts,PERSON
+Hagrid,GPE
+yeh,PERSON
+280,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Malfoy,PERSON
+Hagrid,GPE
+Hagrid,GPE
+tonight,TIME
+Hagrid,GPE
+bin,PERSON
+second,ORDINAL
+a week,DATE
+one,CARDINAL
+last Wednesday,DATE
+first,ORDINAL
+Malfoy,PERSON
+Fang,PERSON
+Hagrid,GPE
+two,CARDINAL
+last night,TIME
+Fang,PERSON
+Malfoy,PERSON
+Fang,PERSON
+Hagrid,GPE
+Harry,PERSON
+Draco,ORG
+Neville,GPE
+Fang’ll,NORP
+281,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+red sparks,ORG
+Harry,PERSON
+Hagrid,GPE
+Malfoy,PERSON
+Neville,GPE
+Fang,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hermione,PERSON
+Don,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hermione,PERSON
+three,CARDINAL
+282,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+a few seconds,TIME
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+Hermione,ORG
+Ronan,PERSON
+Hagrid,GPE
+yeh,PERSON
+evening,TIME
+Hagrid,GPE
+Ronan,PERSON
+Ronan,PERSON
+Hagrid,GPE
+Harry Potter,PERSON
+Ronan,PERSON
+two,CARDINAL
+283,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,ORG
+evening,TIME
+Ronan,PERSON
+Hermione,PERSON
+Ronan,PERSON
+Mars,LOC
+tonight,TIME
+Hagrid,GPE
+inter yeh,PERSON
+Ronan,PERSON
+Ronan,PERSON
+first,ORDINAL
+ages past,DATE
+Hagrid,GPE
+Ronan,PERSON
+Mars,LOC
+tonight,TIME
+Ronan,PERSON
+Hagrid,GPE
+Hagrid,GPE
+n’t,GPE
+Ronan,PERSON
+Ronan,PERSON
+Hagrid,GPE
+second,ORDINAL
+284,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ronan,PERSON
+Hullo,ORG
+Bane,PERSON
+Hagrid,GPE
+evening,TIME
+Hagrid,GPE
+bin,PERSON
+Ronan,PERSON
+Bane,PERSON
+Ronan,GPE
+Mars,LOC
+tonight,TIME
+Hagrid,NORP
+Harry,PERSON
+Hermione,PERSON
+Ronan,GPE
+Bane,PERSON
+Hagrid,GPE
+Hermione,PERSON
+Harry,PERSON
+285,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Nah,PERSON
+’s bin killin,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Hagrid,GPE
+two,CARDINAL
+Hagrid,GPE
+Malfoy,PERSON
+Neville,GPE
+first,ORDINAL
+Harry’s,PERSON
+Hagrid,GPE
+Malfoy,PERSON
+Neville,GPE
+Fang,PERSON
+Hagrid,GPE
+Malfoy,PERSON
+Neville,GPE
+Neville,ORG
+286,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+two,CARDINAL
+Neville,GPE
+Harry,PERSON
+Fang,PERSON
+Hagrid,GPE
+Harry,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Fang,PERSON
+nearly half,CARDINAL
+"an 
+hour",TIME
+Harry,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Harry,PERSON
+one,CARDINAL
+bush,PERSON
+Harry,PERSON
+Malfoy,PERSON
+Fang,PERSON
+287,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Malfoy,PERSON
+Fang,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry’s,PERSON
+a minute,TIME
+two,CARDINAL
+Ronan,PERSON
+Bane,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Potter,PERSON
+Hagrid,GPE
+Firenze,PERSON
+Harry,PERSON
+288,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ronan,PERSON
+Bane,PERSON
+Firenze,PERSON
+Bane,PERSON
+Firenze,PERSON
+Bane,PERSON
+Firenze,PERSON
+Ronan,PERSON
+Firenze,PERSON
+Bane,PERSON
+Firenze,PERSON
+Harry,PERSON
+Firenze,PERSON
+Bane,PERSON
+Bane,PERSON
+289,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Firenze,PERSON
+Harry,PERSON
+Ronan,PERSON
+Bane,PERSON
+Harry,PERSON
+Why’s Bane,WORK_OF_ART
+Firenze,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Firenze,PERSON
+Firenze,PERSON
+Harry Potter,PERSON
+Harry,PERSON
+Potions,GPE
+Firenze,PERSON
+half,CARDINAL
+Harry,PERSON
+Firenze’s,PERSON
+290,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Firenze,PERSON
+Potter,PERSON
+The Sorcerer’s Stone,WORK_OF_ART
+the Elixir of Life,ORG
+Harry,PERSON
+Hagrid,GPE
+Codswallop,PERSON
+Harry,PERSON
+VoZ,PERSON
+Harry!,WORK_OF_ART
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Firenze,PERSON
+Hagrid,GPE
+Harry,PERSON
+291,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry Potter,PERSON
+Firenze,PERSON
+Harry,PERSON
+Ron,PERSON
+Quidditch,NORP
+Harry,PERSON
+seconds,TIME
+Harry,PERSON
+Hermione,ORG
+Harry,PERSON
+Snape,PRODUCT
+Stone,ORG
+Voldemort,PRODUCT
+Voldemort,PRODUCT
+Snape,ORG
+Ron,PERSON
+Voldemort,PRODUCT
+Harry,PERSON
+Firenze,PERSON
+Bane,PERSON
+Voldemort,PRODUCT
+Bane,PERSON
+Firenze,PERSON
+Voldemort,PRODUCT
+Ron,PERSON
+Snape,ORG
+Stone,ORG
+Harry,PERSON
+Voldemort,PRODUCT
+Bane,PERSON
+11,CARDINAL
+292,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Hermione,PERSON
+Harry,PERSON
+Dumbledore’s,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Harry,PERSON
+Invisibility Cloak,PERSON
+293,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+
+
+",ORG
+years,DATE
+Harry,PERSON
+Voldemort,PRODUCT
+the days,DATE
+Fluffy,ORG
+Flitwick,PERSON
+one,CARDINAL
+McGonagall,PERSON
+294,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K.,ORG
+Harry,PERSON
+Neville,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Stone,ORG
+Harry,PERSON
+Voldemort,PRODUCT
+Snape,ORG
+Magic,PRODUCT
+One hour,TIME
+Binns,PERSON
+Harry,PERSON
+1637,DATE
+Ron,PERSON
+Weasley,PERSON
+Lee Jordan,PERSON
+295,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+a week,DATE
+Harry,PERSON
+Pomfrey,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Hermione,ORG
+Stone,ORG
+Dumbledore,ORG
+Snape,ORG
+Fluffy,ORG
+Neville,ORG
+Quidditch,PERSON
+England,GPE
+Hagrid,GPE
+Harry,PERSON
+Hermione,ORG
+"last 
+night",TIME
+Harry,PERSON
+296,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Dumbledore,PRODUCT
+Fluffy,ORG
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hermione,ORG
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hullo,ORG
+Ron,PERSON
+Harry,PERSON
+Norbert,PERSON
+297,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+three,CARDINAL
+the Hog’s Head,FAC
+Mighta bin,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hogwarts,PERSON
+Hagrid,GPE
+Fluffy,ORG
+Fluffy,ORG
+Harry,PERSON
+three,CARDINAL
+Hogwarts,PERSON
+Fluffy,ORG
+yeh,PERSON
+Hagrid,GPE
+298,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Dumbledore,PERSON
+Harry,PERSON
+Hagrid,GPE
+Fluffy,ORG
+Snape,PRODUCT
+Voldemort,PRODUCT
+Hagrid,GPE
+Dumbledore,PERSON
+Firenze,PERSON
+Bane,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+three,CARDINAL
+McGonagall,PERSON
+Dumbledore,PERSON
+Hermione,PRODUCT
+Harry,PERSON
+Ron,PERSON
+Dumbledore,PERSON
+McGonagall,PERSON
+Harry,PERSON
+299,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+McGonagall,PERSON
+Dumbledore,PERSON
+ten minutes ago,TIME
+Magic,ORG
+London,GPE
+Harry,PERSON
+Dumbledore,PERSON
+Potter,PERSON
+the Ministry of Magic,ORG
+Potter,PERSON
+Harry,PERSON
+the Sorcerer’s Stone,ORG
+McGonagall,PERSON
+Sn,ORG
+Stone,ORG
+Dumbledore,PERSON
+Dumbledore,PERSON
+tomorrow,DATE
+Stone,ORG
+300,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Potter,PERSON
+tonight,TIME
+Harry,PERSON
+McGonagall,PERSON
+Snape,ORG
+tonight,TIME
+Dumbledore,PERSON
+"the Ministry of 
+Magic",ORG
+Dumbledore,PERSON
+Hermione,PRODUCT
+Harry,PERSON
+Ron,PERSON
+Snape,ORG
+afternoon,TIME
+a day,DATE
+Harry,PERSON
+Snape,PRODUCT
+Harry,PERSON
+Snape,ORG
+301,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Potter,PERSON
+Harry,PERSON
+One,CARDINAL
+Snape,PRODUCT
+Ron,PERSON
+Flitwick,PERSON
+Flitwick,PERSON
+fourteen,CARDINAL
+Hermione,PERSON
+Snape,LOC
+third,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Fluffy,ORG
+McGonagall,PERSON
+fifty,CARDINAL
+Gryffindor,GPE
+Weasley,PERSON
+House,ORG
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Snape,ORG
+302,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Flitwick,FAC
+Snape,LOC
+Snape,LOC
+Harry,PERSON
+two,CARDINAL
+tonight,TIME
+Stone,ORG
+Ron,PERSON
+Hermione,PERSON
+McGonagall,NORP
+Snape,ORG
+Harry,PERSON
+Snape,ORG
+Stone,ORG
+Voldemort,PRODUCT
+Hogwarts,PERSON
+Gryffindor,PERSON
+"the House 
+Cup",ORG
+Stone,ORG
+Dursleys,PERSON
+Voldemort,PRODUCT
+tonight,TIME
+two,CARDINAL
+Voldemort,PRODUCT
+303,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hermione,ORG
+the Invisibility Cloak,FAC
+Harry,PERSON
+three,CARDINAL
+Ron,PERSON
+three,CARDINAL
+Hermione,PRODUCT
+Stone,ORG
+two,CARDINAL
+Hermione,PRODUCT
+a hundred and twelve,QUANTITY
+three,CARDINAL
+Gryffindors,ORG
+Harry,PERSON
+first,ORDINAL
+Ron,PERSON
+Ron muttered,PERSON
+Lee Jordan,PERSON
+Harry,PERSON
+304,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hagrid,GPE
+Christmas,DATE
+three,CARDINAL
+Filch,PERSON
+one,CARDINAL
+Neville,ORG
+Trevor,PERSON
+Nothing,WORK_OF_ART
+Neville,GPE
+Harry,PERSON
+Neville,ORG
+Hermione,PERSON
+Neville,GPE
+Harry,PERSON
+Snape,PRODUCT
+Neville,ORG
+Harry,PERSON
+Neville,ORG
+305,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Neville,WORK_OF_ART
+Ron,PERSON
+Neville,ORG
+Ron,PERSON
+Neville,WORK_OF_ART
+Neville,ORG
+Neville,ORG
+Harry,PERSON
+Hermione,ORG
+Hermione,PERSON
+Neville,WORK_OF_ART
+Petrificus Totalusl,FAC
+Neville,GPE
+Neville,ORG
+Hermione,PERSON
+Neville,ORG
+306,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Hermione,PRODUCT
+Neville,GPE
+Neville,GPE
+Harry,PERSON
+Neville,GPE
+Ron,PERSON
+the Invisibility Cloak,FAC
+Neville,ORG
+Filch,PERSON
+Peeves,ORG
+first,ORDINAL
+Norris,PERSON
+Ron,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Norris,PERSON
+third,ORDINAL
+Filch,PERSON
+307,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+",ORG
+Harry,PERSON
+Baron,PERSON
+Peevsie,PERSON
+Peeves,ORG
+Harry,PERSON
+tonight,TIME
+Peeves,ORG
+"Brilliant, Harry!",WORK_OF_ART
+Ron,PERSON
+A few seconds later,TIME
+third,ORDINAL
+Harry,PERSON
+Snape,ORG
+Fluffy,ORG
+three,CARDINAL
+Harry,PERSON
+two,CARDINAL
+Ron,PERSON
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,PERSON
+Harry,PERSON
+three,CARDINAL
+Ron,PERSON
+Harry,PERSON
+Hagrid,GPE
+first,ORDINAL
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+first,ORDINAL
+Ron,PERSON
+Hermione,ORG
+309,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+first,ORDINAL
+Ron,PERSON
+Harry,PERSON
+the few seconds,TIME
+Hermione,PERSON
+Harry,PERSON
+Ron,PERSON
+Hedwig,NORP
+Dumbledore,PERSON
+Ron,PERSON
+a minute,TIME
+Harry,PERSON
+FLUMP,ORG
+310,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+first,ORDINAL
+Hermione,ORG
+Harry,PERSON
+Ron,PERSON
+Lucky\,ORG
+Hermione,PRODUCT
+Harry,PERSON
+Ron,PERSON
+two,CARDINAL
+Ron,PERSON
+311,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+"Devil’s Snare, Devil’s Snare",WORK_OF_ART
+Harry,PERSON
+HAVE YOU GONE MAD,WORK_OF_ART
+Ron,PERSON
+Hermione,PERSON
+Snape,LOC
+seconds,TIME
+two,CARDINAL
+Herbology,ORG
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Gringotts,PERSON
+312,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Norbert,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Harry,PERSON
+second,ORDINAL
+two,CARDINAL
+Alohomora Charm,PERSON
+313,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+two,CARDINAL
+hundreds,CARDINAL
+Ron,PERSON
+Harry,PERSON
+Seeker,PERSON
+a century,DATE
+314,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Ron,PERSON
+Hermione,ORG
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Harry,PERSON
+Harry,PERSON
+two,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+315,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Hermione,PERSON
+Ron,PERSON
+Ron,PERSON
+Ron,PERSON
+two,CARDINAL
+three,CARDINAL
+Harry,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Ron,PERSON
+316,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+three,CARDINAL
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+first,ORDINAL
+Ron,PERSON
+two,CARDINAL
+Ron,PERSON
+Harry,PERSON
+four,CARDINAL
+first,ORDINAL
+Ron,PERSON
+Hermione,PERSON
+one,CARDINAL
+Ron,PERSON
+Harry,PERSON
+317,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Hermione,PERSON
+Ron,PERSON
+Harry,PERSON
+Snape,ORG
+Ron,PERSON
+Ron,PERSON
+Ron,PERSON
+Harry,PERSON
+three,CARDINAL
+Harry’s feet,PERSON
+one,CARDINAL
+Ron,PERSON
+Harry,PERSON
+318,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Sprout,ORG
+Flitwick,FAC
+McGonagall,ORG
+Quirrell,ORG
+Snape,ORG
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+seven,CARDINAL
+Snape’s,PRODUCT
+Harry,PERSON
+319,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Two,CARDINAL
+One,CARDINAL
+seven,CARDINAL
+Two,CARDINAL
+Three,CARDINAL
+four,CARDINAL
+First,ORDINAL
+Second,ORDINAL
+Third,ORDINAL
+Fourth,ORDINAL
+second,ORDINAL
+second,ORDINAL
+first,ORDINAL
+320,CARDINAL
+Harry Potter,PERSON
+"the Philosophers Stone - J.K. Rowling 
+
+
+
+
+Hermione",ORG
+Harry,PERSON
+Hermione,PERSON
+Hermione,PERSON
+Seven,CARDINAL
+three,CARDINAL
+two,CARDINAL
+Stone,ORG
+Harry,PERSON
+one,CARDINAL
+one,CARDINAL
+321,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Ron,PERSON
+Fluffy,ORG
+Hedwig,NORP
+Dumbledore,PERSON
+Snape,ORG
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Hermione,PERSON
+Harry,PERSON
+first,ORDINAL
+Harry,PERSON
+Hermione,PERSON
+Harry,PERSON
+322,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Hermione,PERSON
+Harry,PERSON
+one,CARDINAL
+Snape,ORG
+Voldemort,PRODUCT
+323,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+TWO,CARDINAL
+Quirrell,PERSON
+You\,WORK_OF_ART
+Harry,PERSON
+Quirrell,ORG
+Potter,PERSON
+Quirrell,ORG
+Severus,PERSON
+Quirrell,PERSON
+Harry,PERSON
+Snape,ORG
+324,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+"Miss 
+Granger",PERSON
+Snape,LOC
+Quidditch,NORP
+Another few seconds,TIME
+Snape,ORG
+Snape,PRODUCT
+Quirrell,ORG
+Dumbledore,PERSON
+Snape,PRODUCT
+tonight,TIME
+Quirrell,ORG
+Harry,PERSON
+Potter,PERSON
+Halloween,DATE
+Stone,ORG
+Snape,ORG
+third,ORDINAL
+three,CARDINAL
+Snape,ORG
+325,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Potter,PERSON
+Harry,PERSON
+Quirrell,ORG
+the Mirror of Erised,ORG
+Stone,ORG
+London,GPE
+Harry,PERSON
+Quirrell,PERSON
+Snape,ORG
+Quirrell,ORG
+Voldemort,PERSON
+Quirrell,PERSON
+Stone,ORG
+Harry,PERSON
+Quirrell,PERSON
+Snape,ORG
+Quirrell,ORG
+326,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+a few days ago,DATE
+Snape,ORG
+first,ORDINAL
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Voldemort,PERSON
+Quirrell,ORG
+Stone,ORG
+Gringotts,PERSON
+Quirrell,ORG
+Harry,PERSON
+Diagon Alley,PERSON
+Quirrell,ORG
+the Leaky Cauldron,FAC
+Quirrell,ORG
+Stone,ORG
+327,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry’s,PERSON
+Stone,ORG
+Quirrell,ORG
+Quirrell,ORG
+Quirrell,ORG
+Harry’s,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Harry,PERSON
+"Quirrell’s 
+
+Page",ORG
+328,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+first,ORDINAL
+Stone,ORG
+Harry,PERSON
+Stone,ORG
+Quirrell,ORG
+Harry,PERSON
+Dumbledore,PERSON
+the House Cup for Gryffindor,EVENT
+Quirrell,ORG
+Harry,PERSON
+the Sorcerer’s Stone,ORG
+five,CARDINAL
+Quirrell,ORG
+Quirrell,PERSON
+329,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Devil’s Snare,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Harry,PERSON
+Harry Potter,PERSON
+Harry,PERSON
+Unicorn,ORG
+these past weeks,DATE
+Quirrell,ORG
+Stone,ORG
+Harry’s,PERSON
+Harry,PERSON
+330,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Quirrell,PERSON
+Voldemort,PRODUCT
+first,ORDINAL
+Stone,ORG
+NEVER,ORG
+Harry,PERSON
+Voldemort,PRODUCT
+the next second,TIME
+Harry,PERSON
+Quirrell,ORG
+Harry’s,PERSON
+two,CARDINAL
+Quirrell,ORG
+Quirrell,ORG
+Voldemort,PRODUCT
+Quirrell,ORG
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Harry,PERSON
+331,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Voldemort,PRODUCT
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Quirrell,ORG
+Quirrell,ORG
+Harry,PERSON
+Harry’s,PERSON
+Quirrell,ORG
+Voldemort,PRODUCT
+Harry,PERSON
+Harry,PERSON
+Harry,PERSON
+Quirrell,ORG
+Snitch,ORG
+Albus,GPE
+Harry,PERSON
+Dumbledore,PERSON
+332,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Quirrell,PERSON
+Stone,ORG
+Dumbledore,PERSON
+Quirrell,ORG
+Stone,ORG
+Harry,PERSON
+Pomfrey,PERSON
+Harry,PERSON
+half,CARDINAL
+Tokens,GPE
+Dumbledore,PERSON
+Quirrell,PERSON
+Misters Fred,PERSON
+"George 
+Weasley",PERSON
+Pomfrey,PERSON
+Three days,DATE
+Ronald Weasley,PERSON
+Granger,PERSON
+Stone,ORG
+Stone,ORG
+Quirrell,PERSON
+333,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+London,GPE
+Quirrell,ORG
+Stone,ORG
+Stone,ORG
+one,CARDINAL
+Stone,ORG
+Harry blankly,PERSON
+Nicolas Flamel,PERSON
+Nicolas,PERSON
+Dumbledore,PERSON
+Nicolas,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+one,CARDINAL
+Nicolas,PERSON
+Perenelle,LOC
+334,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Stone,ORG
+two,CARDINAL
+Harry,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+Stone,ORG
+Harry,PERSON
+Voldemort,PRODUCT
+Harry,PERSON
+Quirrell,ORG
+Harry,PERSON
+Harry,PERSON
+335,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+11,CARDINAL
+Voldemort,PERSON
+first,ORDINAL
+Dumbledore,PERSON
+Alas,WORK_OF_ART
+first,ORDINAL
+today,DATE
+one day,DATE
+Harry,PERSON
+Harry,PERSON
+one,CARDINAL
+Voldemort,PRODUCT
+Quirrell,ORG
+Voldemort,PRODUCT
+Dumbledore,PERSON
+Harry,PERSON
+Harry,PERSON
+the Invisibility Cloak,LAW
+336,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,ORG
+Quirrell,ORG
+Snape,ORG
+Harry,PERSON
+Quirrell,ORG
+Malfoy,PERSON
+Snape,ORG
+Dumbledore,PERSON
+Funny,PERSON
+this year,DATE
+Harry,PERSON
+one,CARDINAL
+337,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Stone,ORG
+Stone,ORG
+Bertie Bott’s Every,PERSON
+Pomfrey,PERSON
+Just five minutes,TIME
+Harry,PERSON
+Dumbledore,PERSON
+Pomfrey,PERSON
+five minutes,TIME
+Ron,PERSON
+338,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harryl,PERSON
+Harry,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Ron,PERSON
+Harry,PERSON
+Quirrell,ORG
+Stone,ORG
+Voldemort,PRODUCT
+Ron,PERSON
+Hermione,PERSON
+Harry,PERSON
+Quirrell,ORG
+Hermione,ORG
+Stone,ORG
+Ron,PERSON
+Dumbledore,PERSON
+Ron,PERSON
+two,CARDINAL
+Harry,PERSON
+Hermione,PERSON
+Ron,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+third,ORDINAL
+339,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ron,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Voldemort,FAC
+Ron,PERSON
+tomorrow,DATE
+Slytherin,WORK_OF_ART
+Ravenclaw,ORG
+Madam Pomfrey,PERSON
+nearly fifteen minutes,TIME
+"•k k k 
+
+
+
+",PERSON
+Harry,PERSON
+Pomfrey,PERSON
+340,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+Dumbledore,PERSON
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Harry,PERSON
+one,CARDINAL
+Yeh,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Voldemort,PRODUCT
+Yeh,PERSON
+Hagrid,GPE
+Harry,PERSON
+Hagrid,GPE
+Hagrid,GPE
+Stone,ORG
+Hagrid,GPE
+"Harry 
+anxiously",PERSON
+Hagrid,GPE
+341,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+the day,DATE
+yesterday,DATE
+Harry,PERSON
+knew yeh didn,PERSON
+Harry,PERSON
+Hagrid,GPE
+Harry,PERSON
+that night,TIME
+Pomfrey,PERSON
+one,CARDINAL
+the Great Hall,FAC
+Slytherin,NORP
+Slytherin,ORG
+House,ORG
+the seventh year in a row,DATE
+Slytherin,NORP
+Harry,PERSON
+Ron,PERSON
+Dumbledore,PERSON
+Another year,DATE
+Dumbledore,PERSON
+a year,DATE
+342,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+summer,DATE
+next year,DATE
+the House Cup,LAW
+fourth,ORDINAL
+three hundred and twelve,CARDINAL
+third,ORDINAL
+Hufflepuff,ORG
+three hundred and fifty-two,CARDINAL
+Ravenclaw,ORG
+four hundred and twenty-six,CARDINAL
+Slytherin,ORG
+four hundred and seventy-,CARDINAL
+Harry,PERSON
+Draco Malfoy,PERSON
+Slytherin,ORG
+Dumbledore,PERSON
+Slytherins,ORG
+Ahem,ORG
+Dumbledore,PERSON
+First,ORDINAL
+Ronald Weasley,PERSON
+Ron,PERSON
+Hogwarts,PERSON
+many years,DATE
+fifty,CARDINAL
+McGonagall,ORG
+343,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Second,ORDINAL
+Hermione Granger,PERSON
+fifty,CARDINAL
+Harry,PERSON
+a hundred,CARDINAL
+Third,ORDINAL
+Harry Potter,PERSON
+Dumbledore,PERSON
+Gryffindor House,ORG
+Gryffindor,PERSON
+four hundred and seventy-two,CARDINAL
+Slytherin,ORG
+"the House 
+Cup",ORG
+Dumbledore,PERSON
+Harry,PERSON
+Dumbledore,PERSON
+Dumbledore,PERSON
+ten,CARDINAL
+Neville,PERSON
+Longbottom,GPE
+the Great Hall,FAC
+Harry,PERSON
+Ron,PERSON
+Hermione,ORG
+Neville,GPE
+Harry,PERSON
+Ron,PERSON
+Malfoy,PERSON
+344,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Dumbledore,PERSON
+Ravenclaw,ORG
+Hufflepuff,ORG
+Slytherin,ORG
+Slytherin,NORP
+McGonagall,PERSON
+Harry’s,PERSON
+Harry,PERSON
+Snape,ORG
+one,CARDINAL
+Harry,PERSON
+next year,DATE
+Harry,PERSON
+Quidditch,PERSON
+Christmas,DATE
+tonight,TIME
+Harry,PERSON
+Ron,PERSON
+"the first 
+years",DATE
+Neville,GPE
+Goyle,PERSON
+Ron,PERSON
+Neville,ORG
+345,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Fred Weasley,PERSON
+Hagrid,GPE
+the Hogwarts Express,ORG
+"Bertie Bott’s Every Flavor 
+Beans",PERSON
+Muggle,PRODUCT
+King’s Cross,ORG
+this summer,DATE
+Ron,PERSON
+Harry,PERSON
+Harry,PERSON
+Potter,PERSON
+Ron,PERSON
+Harry,PERSON
+Ron,PERSON
+Hermione,PERSON
+Mom,PERSON
+346,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Ginny Weasley,PERSON
+Ron’s,PERSON
+Ron,PERSON
+Harry Potter,PERSON
+Ginny,PERSON
+Weasley,PERSON
+Busy year,DATE
+Harry,PERSON
+Weasley,PERSON
+Uncle Vernon,PERSON
+Harry,PERSON
+Aunt Petunia,PRODUCT
+Dudley,PERSON
+Harry,PERSON
+Harry’s,PERSON
+Weasley,PERSON
+Uncle Vernon,PERSON
+all day,DATE
+Harry,PERSON
+Ron,PERSON
+the summer,DATE
+Uncle Vernon,PERSON
+347,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
+Harry,PERSON
+Dudley,PERSON
+this summer,DATE
+348,CARDINAL
+Harry Potter,PERSON
+the Philosophers Stone - J.K. Rowling,ORG
